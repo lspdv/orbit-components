@@ -9,6 +9,12 @@ exports[`TextLink type: primary, size: default, newTab: false Should match snaps
       "calls": Array [
         Array [],
       ],
+      "results": Array [
+        Object {
+          "isThrow": false,
+          "value": undefined,
+        },
+      ],
     }
   }
 >
@@ -39,6 +45,16 @@ exports[`TextLink type: secondary, size: large, newTab: true Should match snapsh
       "calls": Array [
         Array [],
         Array [],
+      ],
+      "results": Array [
+        Object {
+          "isThrow": false,
+          "value": undefined,
+        },
+        Object {
+          "isThrow": false,
+          "value": undefined,
+        },
       ],
     }
   }
