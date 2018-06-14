@@ -1,0 +1,22 @@
+// @flow
+import defaultTokens from "@kiwicom/orbit-design-tokens";
+
+import SIZE_OPTIONS from "./consts";
+
+export type Props = {|
+  size?: $Values<typeof SIZE_OPTIONS>,
+  name?: string,
+  label?: string,
+  children?: string,
+  placeholder?: string,
+  help?: React$Node,
+  error?: React$Node,
+  disabled?: boolean,
+  maxLength?: number,
+  onChange?: (SyntheticEvent<HTMLInputElement>) => void,
+  onFocus?: (SyntheticEvent<HTMLInputElement>) => void,
+  onBlur?: (SyntheticEvent<HTMLInputElement>) => void,
+  theme?: typeof defaultTokens,
+|};
+
+declare export default React$ComponentType<Props>;
