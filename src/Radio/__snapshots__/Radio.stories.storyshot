@@ -107,7 +107,6 @@ exports[`Storyshots Radio Default 1`] = `
               disabled={false}
               onChange={[Function]}
               type="checkbox"
-              value={undefined}
             />
             <div
               className="Radio__IconContainer-fQtsRf kfweHY"
@@ -152,76 +151,67 @@ exports[`Storyshots Radio Default 1`] = `
                   Source
                 </h4>
                 <pre
-                  style={
-                    Object {
-                      "backgroundColor": "#fafafa",
-                      "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
-                      "fontSize": ".88em",
-                      "lineHeight": 1.5,
-                      "overflowX": "scroll",
-                      "padding": ".5rem",
-                    }
-                  }
+                  className="css-4akams"
                 >
-                  <div
-                    style={
-                      Object {
-                        "paddingLeft": 18,
-                        "paddingRight": 3,
-                      }
-                    }
-                  >
-                    <span
+                  <div>
+                    <div
                       style={
                         Object {
-                          "color": "#777",
+                          "paddingLeft": 18,
+                          "paddingRight": 3,
                         }
                       }
                     >
-                      &lt;
-                      Radio
-                    </span>
-                    <span>
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;
+                        Radio
+                      </span>
                       <span>
-                         
-                        <span
-                          style={Object {}}
-                        >
-                          label
-                        </span>
                         <span>
-                          =
+                           
                           <span
                             style={Object {}}
                           >
+                            label
+                          </span>
+                          <span>
+                            =
                             <span
-                              style={
-                                Object {
-                                  "color": "#22a",
-                                  "wordBreak": "break-word",
-                                }
-                              }
+                              style={Object {}}
                             >
                               "
-                              Label
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                Label
+                              </span>
                               "
                             </span>
                           </span>
                         </span>
-                      </span>
-                      <span>
-                         
-                        <span
-                          style={Object {}}
-                        >
-                          onChange
-                        </span>
                         <span>
-                          =
+                           
                           <span
                             style={Object {}}
                           >
-                            <span>
+                            onChange
+                          </span>
+                          <span>
+                            =
+                            <span
+                              style={Object {}}
+                            >
                               {
                               <span
                                 style={
@@ -235,20 +225,41 @@ exports[`Storyshots Radio Default 1`] = `
                               }
                             </span>
                           </span>
+                           
                         </span>
-                         
                       </span>
-                    </span>
-                    <span
-                      style={
-                        Object {
-                          "color": "#777",
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
                         }
-                      }
-                    >
-                      /&gt;
-                    </span>
+                      >
+                        /&gt;
+                      </span>
+                    </div>
                   </div>
+                  <button
+                    className="css-gydez8"
+                    onClick={[Function]}
+                  >
+                    <div
+                      className="css-kv47nt"
+                    >
+                      <div
+                        style={
+                          Object {
+                            "marginBottom": 6,
+                          }
+                        }
+                      >
+                        Copied!
+                      </div>
+                      <div>
+                        Copy
+                      </div>
+                    </div>
+                  </button>
                 </pre>
               </div>
             </div>
@@ -417,164 +428,155 @@ exports[`Storyshots Radio Playground 1`] = `
                   Source
                 </h4>
                 <pre
-                  style={
-                    Object {
-                      "backgroundColor": "#fafafa",
-                      "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
-                      "fontSize": ".88em",
-                      "lineHeight": 1.5,
-                      "overflowX": "scroll",
-                      "padding": ".5rem",
-                    }
-                  }
+                  className="css-4akams"
                 >
-                  <div
-                    style={
-                      Object {
-                        "paddingLeft": 18,
-                        "paddingRight": 3,
-                      }
-                    }
-                  >
-                    <span
+                  <div>
+                    <div
                       style={
                         Object {
-                          "color": "#777",
+                          "paddingLeft": 18,
+                          "paddingRight": 3,
                         }
                       }
                     >
-                      &lt;
-                      Radio
-                    </span>
-                    <span>
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;
+                        Radio
+                      </span>
                       <span>
                         <span>
-                          <br />
-                            
-                        </span>
-                        <span
-                          style={Object {}}
-                        >
-                          label
-                        </span>
-                        <span>
-                          =
+                          <span>
+                            <br />
+                              
+                          </span>
                           <span
                             style={Object {}}
                           >
+                            label
+                          </span>
+                          <span>
+                            =
                             <span
-                              style={
-                                Object {
-                                  "color": "#22a",
-                                  "wordBreak": "break-word",
-                                }
-                              }
+                              style={Object {}}
                             >
                               "
-                              Label
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                Label
+                              </span>
                               "
                             </span>
                           </span>
                         </span>
-                      </span>
-                      <span>
                         <span>
-                          <br />
-                            
-                        </span>
-                        <span
-                          style={Object {}}
-                        >
-                          value
-                        </span>
-                        <span>
-                          =
+                          <span>
+                            <br />
+                              
+                          </span>
                           <span
                             style={Object {}}
                           >
+                            value
+                          </span>
+                          <span>
+                            =
                             <span
-                              style={
-                                Object {
-                                  "color": "#22a",
-                                  "wordBreak": "break-word",
-                                }
-                              }
+                              style={Object {}}
                             >
                               "
-                              value
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                value
+                              </span>
                               "
                             </span>
                           </span>
                         </span>
-                      </span>
-                      <span>
                         <span>
-                          <br />
-                            
-                        </span>
-                        <span
-                          style={Object {}}
-                        >
-                          checked
-                        </span>
-                      </span>
-                      <span>
-                        <span>
-                          <br />
-                            
-                        </span>
-                        <span
-                          style={Object {}}
-                        >
-                          disabled
-                        </span>
-                      </span>
-                      <span>
-                        <span>
-                          <br />
-                            
-                        </span>
-                        <span
-                          style={Object {}}
-                        >
-                          info
-                        </span>
-                        <span>
-                          =
+                          <span>
+                            <br />
+                              
+                          </span>
                           <span
                             style={Object {}}
                           >
+                            checked
+                          </span>
+                        </span>
+                        <span>
+                          <span>
+                            <br />
+                              
+                          </span>
+                          <span
+                            style={Object {}}
+                          >
+                            disabled
+                          </span>
+                        </span>
+                        <span>
+                          <span>
+                            <br />
+                              
+                          </span>
+                          <span
+                            style={Object {}}
+                          >
+                            info
+                          </span>
+                          <span>
+                            =
                             <span
-                              style={
-                                Object {
-                                  "color": "#22a",
-                                  "wordBreak": "break-word",
-                                }
-                              }
+                              style={Object {}}
                             >
                               "
-                              Additional information for this choice
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                Additional information for this choice
+                              </span>
                               "
                             </span>
                           </span>
                         </span>
-                      </span>
-                      <span>
                         <span>
-                          <br />
-                            
-                        </span>
-                        <span
-                          style={Object {}}
-                        >
-                          onChange
-                        </span>
-                        <span>
-                          =
+                          <span>
+                            <br />
+                              
+                          </span>
                           <span
                             style={Object {}}
                           >
-                            <span>
+                            onChange
+                          </span>
+                          <span>
+                            =
+                            <span
+                              style={Object {}}
+                            >
                               {
                               <span
                                 style={
@@ -588,20 +590,41 @@ exports[`Storyshots Radio Playground 1`] = `
                               }
                             </span>
                           </span>
+                          <br />
                         </span>
-                        <br />
                       </span>
-                    </span>
-                    <span
-                      style={
-                        Object {
-                          "color": "#777",
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
                         }
-                      }
-                    >
-                      /&gt;
-                    </span>
+                      >
+                        /&gt;
+                      </span>
+                    </div>
                   </div>
+                  <button
+                    className="css-gydez8"
+                    onClick={[Function]}
+                  >
+                    <div
+                      className="css-kv47nt"
+                    >
+                      <div
+                        style={
+                          Object {
+                            "marginBottom": 6,
+                          }
+                        }
+                      >
+                        Copied!
+                      </div>
+                      <div>
+                        Copy
+                      </div>
+                    </div>
+                  </button>
                 </pre>
               </div>
             </div>
@@ -770,142 +793,133 @@ exports[`Storyshots Radio With help 1`] = `
                   Source
                 </h4>
                 <pre
-                  style={
-                    Object {
-                      "backgroundColor": "#fafafa",
-                      "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
-                      "fontSize": ".88em",
-                      "lineHeight": 1.5,
-                      "overflowX": "scroll",
-                      "padding": ".5rem",
-                    }
-                  }
+                  className="css-4akams"
                 >
-                  <div
-                    style={
-                      Object {
-                        "paddingLeft": 18,
-                        "paddingRight": 3,
-                      }
-                    }
-                  >
-                    <span
+                  <div>
+                    <div
                       style={
                         Object {
-                          "color": "#777",
+                          "paddingLeft": 18,
+                          "paddingRight": 3,
                         }
                       }
                     >
-                      &lt;
-                      Radio
-                    </span>
-                    <span>
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;
+                        Radio
+                      </span>
                       <span>
                         <span>
-                          <br />
-                            
-                        </span>
-                        <span
-                          style={Object {}}
-                        >
-                          label
-                        </span>
-                        <span>
-                          =
+                          <span>
+                            <br />
+                              
+                          </span>
                           <span
                             style={Object {}}
                           >
+                            label
+                          </span>
+                          <span>
+                            =
                             <span
-                              style={
-                                Object {
-                                  "color": "#22a",
-                                  "wordBreak": "break-word",
-                                }
-                              }
+                              style={Object {}}
                             >
                               "
-                              Label
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                Label
+                              </span>
                               "
                             </span>
                           </span>
                         </span>
-                      </span>
-                      <span>
                         <span>
-                          <br />
-                            
-                        </span>
-                        <span
-                          style={Object {}}
-                        >
-                          value
-                        </span>
-                        <span>
-                          =
+                          <span>
+                            <br />
+                              
+                          </span>
                           <span
                             style={Object {}}
                           >
+                            value
+                          </span>
+                          <span>
+                            =
                             <span
-                              style={
-                                Object {
-                                  "color": "#22a",
-                                  "wordBreak": "break-word",
-                                }
-                              }
+                              style={Object {}}
                             >
                               "
-                              value
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                value
+                              </span>
                               "
                             </span>
                           </span>
                         </span>
-                      </span>
-                      <span>
                         <span>
-                          <br />
-                            
-                        </span>
-                        <span
-                          style={Object {}}
-                        >
-                          info
-                        </span>
-                        <span>
-                          =
+                          <span>
+                            <br />
+                              
+                          </span>
                           <span
                             style={Object {}}
                           >
+                            info
+                          </span>
+                          <span>
+                            =
                             <span
-                              style={
-                                Object {
-                                  "color": "#22a",
-                                  "wordBreak": "break-word",
-                                }
-                              }
+                              style={Object {}}
                             >
                               "
-                              Additional information to this choice
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                Additional information to this choice
+                              </span>
                               "
                             </span>
                           </span>
                         </span>
-                      </span>
-                      <span>
                         <span>
-                          <br />
-                            
-                        </span>
-                        <span
-                          style={Object {}}
-                        >
-                          onChange
-                        </span>
-                        <span>
-                          =
+                          <span>
+                            <br />
+                              
+                          </span>
                           <span
                             style={Object {}}
                           >
-                            <span>
+                            onChange
+                          </span>
+                          <span>
+                            =
+                            <span
+                              style={Object {}}
+                            >
                               {
                               <span
                                 style={
@@ -919,20 +933,41 @@ exports[`Storyshots Radio With help 1`] = `
                               }
                             </span>
                           </span>
+                          <br />
                         </span>
-                        <br />
                       </span>
-                    </span>
-                    <span
-                      style={
-                        Object {
-                          "color": "#777",
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
                         }
-                      }
-                    >
-                      /&gt;
-                    </span>
+                      >
+                        /&gt;
+                      </span>
+                    </div>
                   </div>
+                  <button
+                    className="css-gydez8"
+                    onClick={[Function]}
+                  >
+                    <div
+                      className="css-kv47nt"
+                    >
+                      <div
+                        style={
+                          Object {
+                            "marginBottom": 6,
+                          }
+                        }
+                      >
+                        Copied!
+                      </div>
+                      <div>
+                        Copy
+                      </div>
+                    </div>
+                  </button>
                 </pre>
               </div>
             </div>

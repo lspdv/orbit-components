@@ -131,52 +131,14 @@ exports[`Storyshots Button Basic buttons 1`] = `
                   Source
                 </h4>
                 <pre
-                  style={
-                    Object {
-                      "backgroundColor": "#fafafa",
-                      "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
-                      "fontSize": ".88em",
-                      "lineHeight": 1.5,
-                      "overflowX": "scroll",
-                      "padding": ".5rem",
-                    }
-                  }
+                  className="css-4akams"
                 >
                   <div>
-                    <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
-                    >
-                      <span
-                        style={
-                          Object {
-                            "color": "#777",
-                          }
-                        }
-                      >
-                        &lt;
-                        ThemeProvider
-                      </span>
-                      <span />
-                      <span
-                        style={
-                          Object {
-                            "color": "#777",
-                          }
-                        }
-                      >
-                        &gt;
-                      </span>
-                    </div>
                     <div>
                       <div
                         style={
                           Object {
-                            "paddingLeft": 33,
+                            "paddingLeft": 18,
                             "paddingRight": 3,
                           }
                         }
@@ -189,22 +151,51 @@ exports[`Storyshots Button Basic buttons 1`] = `
                           }
                         >
                           &lt;
-                          Button
+                          ThemeProvider
                         </span>
-                        <span>
+                        <span />
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          &gt;
+                        </span>
+                      </div>
+                      <div>
+                        <div
+                          style={
+                            Object {
+                              "paddingLeft": 33,
+                              "paddingRight": 3,
+                            }
+                          }
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &lt;
+                            Button
+                          </span>
                           <span>
-                             
-                            <span
-                              style={Object {}}
-                            >
-                              onClick
-                            </span>
                             <span>
-                              =
+                               
                               <span
                                 style={Object {}}
                               >
-                                <span>
+                                onClick
+                              </span>
+                              <span>
+                                =
+                                <span
+                                  style={Object {}}
+                                >
                                   {
                                   <span
                                     style={
@@ -218,42 +209,62 @@ exports[`Storyshots Button Basic buttons 1`] = `
                                   }
                                 </span>
                               </span>
+                              
                             </span>
-                            
                           </span>
-                        </span>
-                        <span
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &gt;
+                          </span>
+                        </div>
+                        <div
                           style={
                             Object {
-                              "color": "#777",
+                              "paddingLeft": 48,
+                              "paddingRight": 3,
                             }
                           }
                         >
-                          &gt;
-                        </span>
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            Button
+                          </span>
+                        </div>
+                        <div
+                          style={
+                            Object {
+                              "paddingLeft": 33,
+                              "paddingRight": 3,
+                            }
+                          }
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &lt;/
+                            Button
+                            &gt;
+                          </span>
+                        </div>
                       </div>
                       <div
                         style={
                           Object {
-                            "paddingLeft": 48,
-                            "paddingRight": 3,
-                          }
-                        }
-                      >
-                        <span
-                          style={
-                            Object {
-                              "color": "#777",
-                            }
-                          }
-                        >
-                          Button
-                        </span>
-                      </div>
-                      <div
-                        style={
-                          Object {
-                            "paddingLeft": 33,
+                            "paddingLeft": 18,
                             "paddingRight": 3,
                           }
                         }
@@ -266,32 +277,33 @@ exports[`Storyshots Button Basic buttons 1`] = `
                           }
                         >
                           &lt;/
-                          Button
+                          ThemeProvider
                           &gt;
                         </span>
                       </div>
                     </div>
+                  </div>
+                  <button
+                    className="css-gydez8"
+                    onClick={[Function]}
+                  >
                     <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
+                      className="css-kv47nt"
                     >
-                      <span
+                      <div
                         style={
                           Object {
-                            "color": "#777",
+                            "marginBottom": 6,
                           }
                         }
                       >
-                        &lt;/
-                        ThemeProvider
-                        &gt;
-                      </span>
+                        Copied!
+                      </div>
+                      <div>
+                        Copy
+                      </div>
                     </div>
-                  </div>
+                  </button>
                 </pre>
               </div>
             </div>
@@ -412,7 +424,6 @@ exports[`Storyshots Button Button with icon 1`] = `
               size="small"
             >
               <svg
-                className={undefined}
                 fill="currentColor"
                 height="24px"
                 preserveAspectRatio="xMidYMid meet"
@@ -457,52 +468,14 @@ exports[`Storyshots Button Button with icon 1`] = `
                   Source
                 </h4>
                 <pre
-                  style={
-                    Object {
-                      "backgroundColor": "#fafafa",
-                      "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
-                      "fontSize": ".88em",
-                      "lineHeight": 1.5,
-                      "overflowX": "scroll",
-                      "padding": ".5rem",
-                    }
-                  }
+                  className="css-4akams"
                 >
                   <div>
-                    <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
-                    >
-                      <span
-                        style={
-                          Object {
-                            "color": "#777",
-                          }
-                        }
-                      >
-                        &lt;
-                        ThemeProvider
-                      </span>
-                      <span />
-                      <span
-                        style={
-                          Object {
-                            "color": "#777",
-                          }
-                        }
-                      >
-                        &gt;
-                      </span>
-                    </div>
                     <div>
                       <div
                         style={
                           Object {
-                            "paddingLeft": 33,
+                            "paddingLeft": 18,
                             "paddingRight": 3,
                           }
                         }
@@ -515,22 +488,51 @@ exports[`Storyshots Button Button with icon 1`] = `
                           }
                         >
                           &lt;
-                          Button
+                          ThemeProvider
                         </span>
-                        <span>
+                        <span />
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          &gt;
+                        </span>
+                      </div>
+                      <div>
+                        <div
+                          style={
+                            Object {
+                              "paddingLeft": 33,
+                              "paddingRight": 3,
+                            }
+                          }
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &lt;
+                            Button
+                          </span>
                           <span>
-                             
-                            <span
-                              style={Object {}}
-                            >
-                              onClick
-                            </span>
                             <span>
-                              =
+                               
                               <span
                                 style={Object {}}
                               >
-                                <span>
+                                onClick
+                              </span>
+                              <span>
+                                =
+                                <span
+                                  style={Object {}}
+                                >
                                   {
                                   <span
                                     style={
@@ -545,47 +547,45 @@ exports[`Storyshots Button Button with icon 1`] = `
                                 </span>
                               </span>
                             </span>
-                          </span>
-                          <span>
-                             
-                            <span
-                              style={Object {}}
-                            >
-                              size
-                            </span>
                             <span>
-                              =
+                               
                               <span
                                 style={Object {}}
                               >
+                                size
+                              </span>
+                              <span>
+                                =
                                 <span
-                                  style={
-                                    Object {
-                                      "color": "#22a",
-                                      "wordBreak": "break-word",
-                                    }
-                                  }
+                                  style={Object {}}
                                 >
                                   "
-                                  small
+                                  <span
+                                    style={
+                                      Object {
+                                        "color": "#22a",
+                                        "wordBreak": "break-word",
+                                      }
+                                    }
+                                  >
+                                    small
+                                  </span>
                                   "
                                 </span>
                               </span>
                             </span>
-                          </span>
-                          <span>
-                             
-                            <span
-                              style={Object {}}
-                            >
-                              icon
-                            </span>
                             <span>
-                              =
+                               
                               <span
                                 style={Object {}}
                               >
-                                <span>
+                                icon
+                              </span>
+                              <span>
+                                =
+                                <span
+                                  style={Object {}}
+                                >
                                   {
                                   <span
                                     style={
@@ -599,42 +599,62 @@ exports[`Storyshots Button Button with icon 1`] = `
                                   }
                                 </span>
                               </span>
+                              
                             </span>
-                            
                           </span>
-                        </span>
-                        <span
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &gt;
+                          </span>
+                        </div>
+                        <div
                           style={
                             Object {
-                              "color": "#777",
+                              "paddingLeft": 48,
+                              "paddingRight": 3,
                             }
                           }
                         >
-                          &gt;
-                        </span>
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            Button
+                          </span>
+                        </div>
+                        <div
+                          style={
+                            Object {
+                              "paddingLeft": 33,
+                              "paddingRight": 3,
+                            }
+                          }
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &lt;/
+                            Button
+                            &gt;
+                          </span>
+                        </div>
                       </div>
                       <div
                         style={
                           Object {
-                            "paddingLeft": 48,
-                            "paddingRight": 3,
-                          }
-                        }
-                      >
-                        <span
-                          style={
-                            Object {
-                              "color": "#777",
-                            }
-                          }
-                        >
-                          Button
-                        </span>
-                      </div>
-                      <div
-                        style={
-                          Object {
-                            "paddingLeft": 33,
+                            "paddingLeft": 18,
                             "paddingRight": 3,
                           }
                         }
@@ -647,32 +667,33 @@ exports[`Storyshots Button Button with icon 1`] = `
                           }
                         >
                           &lt;/
-                          Button
+                          ThemeProvider
                           &gt;
                         </span>
                       </div>
                     </div>
+                  </div>
+                  <button
+                    className="css-gydez8"
+                    onClick={[Function]}
+                  >
                     <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
+                      className="css-kv47nt"
                     >
-                      <span
+                      <div
                         style={
                           Object {
-                            "color": "#777",
+                            "marginBottom": 6,
                           }
                         }
                       >
-                        &lt;/
-                        ThemeProvider
-                        &gt;
-                      </span>
+                        Copied!
+                      </div>
+                      <div>
+                        Copy
+                      </div>
                     </div>
-                  </div>
+                  </button>
                 </pre>
               </div>
             </div>
@@ -815,52 +836,14 @@ exports[`Storyshots Button Default 1`] = `
                   Source
                 </h4>
                 <pre
-                  style={
-                    Object {
-                      "backgroundColor": "#fafafa",
-                      "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
-                      "fontSize": ".88em",
-                      "lineHeight": 1.5,
-                      "overflowX": "scroll",
-                      "padding": ".5rem",
-                    }
-                  }
+                  className="css-4akams"
                 >
                   <div>
-                    <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
-                    >
-                      <span
-                        style={
-                          Object {
-                            "color": "#777",
-                          }
-                        }
-                      >
-                        &lt;
-                        ThemeProvider
-                      </span>
-                      <span />
-                      <span
-                        style={
-                          Object {
-                            "color": "#777",
-                          }
-                        }
-                      >
-                        &gt;
-                      </span>
-                    </div>
                     <div>
                       <div
                         style={
                           Object {
-                            "paddingLeft": 33,
+                            "paddingLeft": 18,
                             "paddingRight": 3,
                           }
                         }
@@ -873,22 +856,51 @@ exports[`Storyshots Button Default 1`] = `
                           }
                         >
                           &lt;
-                          Button
+                          ThemeProvider
                         </span>
-                        <span>
+                        <span />
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          &gt;
+                        </span>
+                      </div>
+                      <div>
+                        <div
+                          style={
+                            Object {
+                              "paddingLeft": 33,
+                              "paddingRight": 3,
+                            }
+                          }
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &lt;
+                            Button
+                          </span>
                           <span>
-                             
-                            <span
-                              style={Object {}}
-                            >
-                              onClick
-                            </span>
                             <span>
-                              =
+                               
                               <span
                                 style={Object {}}
                               >
-                                <span>
+                                onClick
+                              </span>
+                              <span>
+                                =
+                                <span
+                                  style={Object {}}
+                                >
                                   {
                                   <span
                                     style={
@@ -902,42 +914,62 @@ exports[`Storyshots Button Default 1`] = `
                                   }
                                 </span>
                               </span>
+                              
                             </span>
-                            
                           </span>
-                        </span>
-                        <span
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &gt;
+                          </span>
+                        </div>
+                        <div
                           style={
                             Object {
-                              "color": "#777",
+                              "paddingLeft": 48,
+                              "paddingRight": 3,
                             }
                           }
                         >
-                          &gt;
-                        </span>
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            Default button
+                          </span>
+                        </div>
+                        <div
+                          style={
+                            Object {
+                              "paddingLeft": 33,
+                              "paddingRight": 3,
+                            }
+                          }
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &lt;/
+                            Button
+                            &gt;
+                          </span>
+                        </div>
                       </div>
                       <div
                         style={
                           Object {
-                            "paddingLeft": 48,
-                            "paddingRight": 3,
-                          }
-                        }
-                      >
-                        <span
-                          style={
-                            Object {
-                              "color": "#777",
-                            }
-                          }
-                        >
-                          Default button
-                        </span>
-                      </div>
-                      <div
-                        style={
-                          Object {
-                            "paddingLeft": 33,
+                            "paddingLeft": 18,
                             "paddingRight": 3,
                           }
                         }
@@ -950,32 +982,33 @@ exports[`Storyshots Button Default 1`] = `
                           }
                         >
                           &lt;/
-                          Button
+                          ThemeProvider
                           &gt;
                         </span>
                       </div>
                     </div>
+                  </div>
+                  <button
+                    className="css-gydez8"
+                    onClick={[Function]}
+                  >
                     <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
+                      className="css-kv47nt"
                     >
-                      <span
+                      <div
                         style={
                           Object {
-                            "color": "#777",
+                            "marginBottom": 6,
                           }
                         }
                       >
-                        &lt;/
-                        ThemeProvider
-                        &gt;
-                      </span>
+                        Copied!
+                      </div>
+                      <div>
+                        Copy
+                      </div>
                     </div>
-                  </div>
+                  </button>
                 </pre>
               </div>
             </div>
@@ -1096,7 +1129,6 @@ exports[`Storyshots Button Destructive buttons 1`] = `
               size="normal"
             >
               <svg
-                className={undefined}
                 fill="currentColor"
                 height="24px"
                 preserveAspectRatio="xMidYMid meet"
@@ -1141,52 +1173,14 @@ exports[`Storyshots Button Destructive buttons 1`] = `
                   Source
                 </h4>
                 <pre
-                  style={
-                    Object {
-                      "backgroundColor": "#fafafa",
-                      "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
-                      "fontSize": ".88em",
-                      "lineHeight": 1.5,
-                      "overflowX": "scroll",
-                      "padding": ".5rem",
-                    }
-                  }
+                  className="css-4akams"
                 >
                   <div>
-                    <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
-                    >
-                      <span
-                        style={
-                          Object {
-                            "color": "#777",
-                          }
-                        }
-                      >
-                        &lt;
-                        ThemeProvider
-                      </span>
-                      <span />
-                      <span
-                        style={
-                          Object {
-                            "color": "#777",
-                          }
-                        }
-                      >
-                        &gt;
-                      </span>
-                    </div>
                     <div>
                       <div
                         style={
                           Object {
-                            "paddingLeft": 33,
+                            "paddingLeft": 18,
                             "paddingRight": 3,
                           }
                         }
@@ -1199,22 +1193,51 @@ exports[`Storyshots Button Destructive buttons 1`] = `
                           }
                         >
                           &lt;
-                          Button
+                          ThemeProvider
                         </span>
-                        <span>
+                        <span />
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          &gt;
+                        </span>
+                      </div>
+                      <div>
+                        <div
+                          style={
+                            Object {
+                              "paddingLeft": 33,
+                              "paddingRight": 3,
+                            }
+                          }
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &lt;
+                            Button
+                          </span>
                           <span>
-                             
-                            <span
-                              style={Object {}}
-                            >
-                              onClick
-                            </span>
                             <span>
-                              =
+                               
                               <span
                                 style={Object {}}
                               >
-                                <span>
+                                onClick
+                              </span>
+                              <span>
+                                =
+                                <span
+                                  style={Object {}}
+                                >
                                   {
                                   <span
                                     style={
@@ -1229,47 +1252,45 @@ exports[`Storyshots Button Destructive buttons 1`] = `
                                 </span>
                               </span>
                             </span>
-                          </span>
-                          <span>
-                             
-                            <span
-                              style={Object {}}
-                            >
-                              type
-                            </span>
                             <span>
-                              =
+                               
                               <span
                                 style={Object {}}
                               >
+                                type
+                              </span>
+                              <span>
+                                =
                                 <span
-                                  style={
-                                    Object {
-                                      "color": "#22a",
-                                      "wordBreak": "break-word",
-                                    }
-                                  }
+                                  style={Object {}}
                                 >
                                   "
-                                  critical
+                                  <span
+                                    style={
+                                      Object {
+                                        "color": "#22a",
+                                        "wordBreak": "break-word",
+                                      }
+                                    }
+                                  >
+                                    critical
+                                  </span>
                                   "
                                 </span>
                               </span>
                             </span>
-                          </span>
-                          <span>
-                             
-                            <span
-                              style={Object {}}
-                            >
-                              icon
-                            </span>
                             <span>
-                              =
+                               
                               <span
                                 style={Object {}}
                               >
-                                <span>
+                                icon
+                              </span>
+                              <span>
+                                =
+                                <span
+                                  style={Object {}}
+                                >
                                   {
                                   <span
                                     style={
@@ -1283,42 +1304,62 @@ exports[`Storyshots Button Destructive buttons 1`] = `
                                   }
                                 </span>
                               </span>
+                              
                             </span>
-                            
                           </span>
-                        </span>
-                        <span
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &gt;
+                          </span>
+                        </div>
+                        <div
                           style={
                             Object {
-                              "color": "#777",
+                              "paddingLeft": 48,
+                              "paddingRight": 3,
                             }
                           }
                         >
-                          &gt;
-                        </span>
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            Destructive button
+                          </span>
+                        </div>
+                        <div
+                          style={
+                            Object {
+                              "paddingLeft": 33,
+                              "paddingRight": 3,
+                            }
+                          }
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &lt;/
+                            Button
+                            &gt;
+                          </span>
+                        </div>
                       </div>
                       <div
                         style={
                           Object {
-                            "paddingLeft": 48,
-                            "paddingRight": 3,
-                          }
-                        }
-                      >
-                        <span
-                          style={
-                            Object {
-                              "color": "#777",
-                            }
-                          }
-                        >
-                          Destructive button
-                        </span>
-                      </div>
-                      <div
-                        style={
-                          Object {
-                            "paddingLeft": 33,
+                            "paddingLeft": 18,
                             "paddingRight": 3,
                           }
                         }
@@ -1331,32 +1372,33 @@ exports[`Storyshots Button Destructive buttons 1`] = `
                           }
                         >
                           &lt;/
-                          Button
+                          ThemeProvider
                           &gt;
                         </span>
                       </div>
                     </div>
+                  </div>
+                  <button
+                    className="css-gydez8"
+                    onClick={[Function]}
+                  >
                     <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
+                      className="css-kv47nt"
                     >
-                      <span
+                      <div
                         style={
                           Object {
-                            "color": "#777",
+                            "marginBottom": 6,
                           }
                         }
                       >
-                        &lt;/
-                        ThemeProvider
-                        &gt;
-                      </span>
+                        Copied!
+                      </div>
+                      <div>
+                        Copy
+                      </div>
                     </div>
-                  </div>
+                  </button>
                 </pre>
               </div>
             </div>
@@ -1477,7 +1519,6 @@ exports[`Storyshots Button Playground 1`] = `
               size="normal"
             >
               <svg
-                className={undefined}
                 fill="currentColor"
                 height="24px"
                 preserveAspectRatio="xMidYMid meet"
@@ -1522,52 +1563,14 @@ exports[`Storyshots Button Playground 1`] = `
                   Source
                 </h4>
                 <pre
-                  style={
-                    Object {
-                      "backgroundColor": "#fafafa",
-                      "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
-                      "fontSize": ".88em",
-                      "lineHeight": 1.5,
-                      "overflowX": "scroll",
-                      "padding": ".5rem",
-                    }
-                  }
+                  className="css-4akams"
                 >
                   <div>
-                    <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
-                    >
-                      <span
-                        style={
-                          Object {
-                            "color": "#777",
-                          }
-                        }
-                      >
-                        &lt;
-                        ThemeProvider
-                      </span>
-                      <span />
-                      <span
-                        style={
-                          Object {
-                            "color": "#777",
-                          }
-                        }
-                      >
-                        &gt;
-                      </span>
-                    </div>
                     <div>
                       <div
                         style={
                           Object {
-                            "paddingLeft": 33,
+                            "paddingLeft": 18,
                             "paddingRight": 3,
                           }
                         }
@@ -1580,22 +1583,51 @@ exports[`Storyshots Button Playground 1`] = `
                           }
                         >
                           &lt;
-                          Button
+                          ThemeProvider
                         </span>
-                        <span>
+                        <span />
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          &gt;
+                        </span>
+                      </div>
+                      <div>
+                        <div
+                          style={
+                            Object {
+                              "paddingLeft": 33,
+                              "paddingRight": 3,
+                            }
+                          }
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &lt;
+                            Button
+                          </span>
                           <span>
-                             
-                            <span
-                              style={Object {}}
-                            >
-                              onClick
-                            </span>
                             <span>
-                              =
+                               
                               <span
                                 style={Object {}}
                               >
-                                <span>
+                                onClick
+                              </span>
+                              <span>
+                                =
+                                <span
+                                  style={Object {}}
+                                >
                                   {
                                   <span
                                     style={
@@ -1610,20 +1642,18 @@ exports[`Storyshots Button Playground 1`] = `
                                 </span>
                               </span>
                             </span>
-                          </span>
-                          <span>
-                             
-                            <span
-                              style={Object {}}
-                            >
-                              icon
-                            </span>
                             <span>
-                              =
+                               
                               <span
                                 style={Object {}}
                               >
-                                <span>
+                                icon
+                              </span>
+                              <span>
+                                =
+                                <span
+                                  style={Object {}}
+                                >
                                   {
                                   <span
                                     style={
@@ -1637,42 +1667,62 @@ exports[`Storyshots Button Playground 1`] = `
                                   }
                                 </span>
                               </span>
+                              
                             </span>
-                            
                           </span>
-                        </span>
-                        <span
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &gt;
+                          </span>
+                        </div>
+                        <div
                           style={
                             Object {
-                              "color": "#777",
+                              "paddingLeft": 48,
+                              "paddingRight": 3,
                             }
                           }
                         >
-                          &gt;
-                        </span>
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            Button
+                          </span>
+                        </div>
+                        <div
+                          style={
+                            Object {
+                              "paddingLeft": 33,
+                              "paddingRight": 3,
+                            }
+                          }
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &lt;/
+                            Button
+                            &gt;
+                          </span>
+                        </div>
                       </div>
                       <div
                         style={
                           Object {
-                            "paddingLeft": 48,
-                            "paddingRight": 3,
-                          }
-                        }
-                      >
-                        <span
-                          style={
-                            Object {
-                              "color": "#777",
-                            }
-                          }
-                        >
-                          Button
-                        </span>
-                      </div>
-                      <div
-                        style={
-                          Object {
-                            "paddingLeft": 33,
+                            "paddingLeft": 18,
                             "paddingRight": 3,
                           }
                         }
@@ -1685,32 +1735,33 @@ exports[`Storyshots Button Playground 1`] = `
                           }
                         >
                           &lt;/
-                          Button
+                          ThemeProvider
                           &gt;
                         </span>
                       </div>
                     </div>
+                  </div>
+                  <button
+                    className="css-gydez8"
+                    onClick={[Function]}
+                  >
                     <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
+                      className="css-kv47nt"
                     >
-                      <span
+                      <div
                         style={
                           Object {
-                            "color": "#777",
+                            "marginBottom": 6,
                           }
                         }
                       >
-                        &lt;/
-                        ThemeProvider
-                        &gt;
-                      </span>
+                        Copied!
+                      </div>
+                      <div>
+                        Copy
+                      </div>
                     </div>
-                  </div>
+                  </button>
                 </pre>
               </div>
             </div>
@@ -1831,7 +1882,6 @@ exports[`Storyshots Button Social buttons 1`] = `
               size="normal"
             >
               <svg
-                className={undefined}
                 fill="currentColor"
                 height="24px"
                 preserveAspectRatio="xMidYMid meet"
@@ -1876,52 +1926,14 @@ exports[`Storyshots Button Social buttons 1`] = `
                   Source
                 </h4>
                 <pre
-                  style={
-                    Object {
-                      "backgroundColor": "#fafafa",
-                      "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
-                      "fontSize": ".88em",
-                      "lineHeight": 1.5,
-                      "overflowX": "scroll",
-                      "padding": ".5rem",
-                    }
-                  }
+                  className="css-4akams"
                 >
                   <div>
-                    <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
-                    >
-                      <span
-                        style={
-                          Object {
-                            "color": "#777",
-                          }
-                        }
-                      >
-                        &lt;
-                        ThemeProvider
-                      </span>
-                      <span />
-                      <span
-                        style={
-                          Object {
-                            "color": "#777",
-                          }
-                        }
-                      >
-                        &gt;
-                      </span>
-                    </div>
                     <div>
                       <div
                         style={
                           Object {
-                            "paddingLeft": 33,
+                            "paddingLeft": 18,
                             "paddingRight": 3,
                           }
                         }
@@ -1934,25 +1946,54 @@ exports[`Storyshots Button Social buttons 1`] = `
                           }
                         >
                           &lt;
-                          Button
+                          ThemeProvider
                         </span>
-                        <span>
+                        <span />
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          &gt;
+                        </span>
+                      </div>
+                      <div>
+                        <div
+                          style={
+                            Object {
+                              "paddingLeft": 33,
+                              "paddingRight": 3,
+                            }
+                          }
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &lt;
+                            Button
+                          </span>
                           <span>
                             <span>
-                              <br />
-                                
-                            </span>
-                            <span
-                              style={Object {}}
-                            >
-                              onClick
-                            </span>
-                            <span>
-                              =
+                              <span>
+                                <br />
+                                  
+                              </span>
                               <span
                                 style={Object {}}
                               >
-                                <span>
+                                onClick
+                              </span>
+                              <span>
+                                =
+                                <span
+                                  style={Object {}}
+                                >
                                   {
                                   <span
                                     style={
@@ -1967,53 +2008,51 @@ exports[`Storyshots Button Social buttons 1`] = `
                                 </span>
                               </span>
                             </span>
-                          </span>
-                          <span>
                             <span>
-                              <br />
-                                
-                            </span>
-                            <span
-                              style={Object {}}
-                            >
-                              type
-                            </span>
-                            <span>
-                              =
+                              <span>
+                                <br />
+                                  
+                              </span>
                               <span
                                 style={Object {}}
                               >
+                                type
+                              </span>
+                              <span>
+                                =
                                 <span
-                                  style={
-                                    Object {
-                                      "color": "#22a",
-                                      "wordBreak": "break-word",
-                                    }
-                                  }
+                                  style={Object {}}
                                 >
                                   "
-                                  facebook
+                                  <span
+                                    style={
+                                      Object {
+                                        "color": "#22a",
+                                        "wordBreak": "break-word",
+                                      }
+                                    }
+                                  >
+                                    facebook
+                                  </span>
                                   "
                                 </span>
                               </span>
                             </span>
-                          </span>
-                          <span>
                             <span>
-                              <br />
-                                
-                            </span>
-                            <span
-                              style={Object {}}
-                            >
-                              icon
-                            </span>
-                            <span>
-                              =
+                              <span>
+                                <br />
+                                  
+                              </span>
                               <span
                                 style={Object {}}
                               >
-                                <span>
+                                icon
+                              </span>
+                              <span>
+                                =
+                                <span
+                                  style={Object {}}
+                                >
                                   {
                                   <span
                                     style={
@@ -2028,52 +2067,72 @@ exports[`Storyshots Button Social buttons 1`] = `
                                 </span>
                               </span>
                             </span>
-                          </span>
-                          <span>
                             <span>
+                              <span>
+                                <br />
+                                  
+                              </span>
+                              <span
+                                style={Object {}}
+                              >
+                                bordered
+                              </span>
                               <br />
-                                
                             </span>
-                            <span
-                              style={Object {}}
-                            >
-                              bordered
-                            </span>
-                            <br />
                           </span>
-                        </span>
-                        <span
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &gt;
+                          </span>
+                        </div>
+                        <div
                           style={
                             Object {
-                              "color": "#777",
+                              "paddingLeft": 48,
+                              "paddingRight": 3,
                             }
                           }
                         >
-                          &gt;
-                        </span>
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            Sign in with Facebook
+                          </span>
+                        </div>
+                        <div
+                          style={
+                            Object {
+                              "paddingLeft": 33,
+                              "paddingRight": 3,
+                            }
+                          }
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &lt;/
+                            Button
+                            &gt;
+                          </span>
+                        </div>
                       </div>
                       <div
                         style={
                           Object {
-                            "paddingLeft": 48,
-                            "paddingRight": 3,
-                          }
-                        }
-                      >
-                        <span
-                          style={
-                            Object {
-                              "color": "#777",
-                            }
-                          }
-                        >
-                          Sign in with Facebook
-                        </span>
-                      </div>
-                      <div
-                        style={
-                          Object {
-                            "paddingLeft": 33,
+                            "paddingLeft": 18,
                             "paddingRight": 3,
                           }
                         }
@@ -2086,32 +2145,33 @@ exports[`Storyshots Button Social buttons 1`] = `
                           }
                         >
                           &lt;/
-                          Button
+                          ThemeProvider
                           &gt;
                         </span>
                       </div>
                     </div>
+                  </div>
+                  <button
+                    className="css-gydez8"
+                    onClick={[Function]}
+                  >
                     <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
+                      className="css-kv47nt"
                     >
-                      <span
+                      <div
                         style={
                           Object {
-                            "color": "#777",
+                            "marginBottom": 6,
                           }
                         }
                       >
-                        &lt;/
-                        ThemeProvider
-                        &gt;
-                      </span>
+                        Copied!
+                      </div>
+                      <div>
+                        Copy
+                      </div>
                     </div>
-                  </div>
+                  </button>
                 </pre>
               </div>
             </div>
@@ -2157,7 +2217,6 @@ exports[`Storyshots Button Social buttons 1`] = `
               size="normal"
             >
               <svg
-                className={undefined}
                 fill="currentColor"
                 height="24px"
                 preserveAspectRatio="xMidYMid meet"
@@ -2219,52 +2278,14 @@ exports[`Storyshots Button Social buttons 1`] = `
                   Source
                 </h4>
                 <pre
-                  style={
-                    Object {
-                      "backgroundColor": "#fafafa",
-                      "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
-                      "fontSize": ".88em",
-                      "lineHeight": 1.5,
-                      "overflowX": "scroll",
-                      "padding": ".5rem",
-                    }
-                  }
+                  className="css-4akams"
                 >
                   <div>
-                    <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
-                    >
-                      <span
-                        style={
-                          Object {
-                            "color": "#777",
-                          }
-                        }
-                      >
-                        &lt;
-                        ThemeProvider
-                      </span>
-                      <span />
-                      <span
-                        style={
-                          Object {
-                            "color": "#777",
-                          }
-                        }
-                      >
-                        &gt;
-                      </span>
-                    </div>
                     <div>
                       <div
                         style={
                           Object {
-                            "paddingLeft": 33,
+                            "paddingLeft": 18,
                             "paddingRight": 3,
                           }
                         }
@@ -2277,25 +2298,54 @@ exports[`Storyshots Button Social buttons 1`] = `
                           }
                         >
                           &lt;
-                          Button
+                          ThemeProvider
                         </span>
-                        <span>
+                        <span />
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          &gt;
+                        </span>
+                      </div>
+                      <div>
+                        <div
+                          style={
+                            Object {
+                              "paddingLeft": 33,
+                              "paddingRight": 3,
+                            }
+                          }
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &lt;
+                            Button
+                          </span>
                           <span>
                             <span>
-                              <br />
-                                
-                            </span>
-                            <span
-                              style={Object {}}
-                            >
-                              onClick
-                            </span>
-                            <span>
-                              =
+                              <span>
+                                <br />
+                                  
+                              </span>
                               <span
                                 style={Object {}}
                               >
-                                <span>
+                                onClick
+                              </span>
+                              <span>
+                                =
+                                <span
+                                  style={Object {}}
+                                >
                                   {
                                   <span
                                     style={
@@ -2310,53 +2360,51 @@ exports[`Storyshots Button Social buttons 1`] = `
                                 </span>
                               </span>
                             </span>
-                          </span>
-                          <span>
                             <span>
-                              <br />
-                                
-                            </span>
-                            <span
-                              style={Object {}}
-                            >
-                              type
-                            </span>
-                            <span>
-                              =
+                              <span>
+                                <br />
+                                  
+                              </span>
                               <span
                                 style={Object {}}
                               >
+                                type
+                              </span>
+                              <span>
+                                =
                                 <span
-                                  style={
-                                    Object {
-                                      "color": "#22a",
-                                      "wordBreak": "break-word",
-                                    }
-                                  }
+                                  style={Object {}}
                                 >
                                   "
-                                  google
+                                  <span
+                                    style={
+                                      Object {
+                                        "color": "#22a",
+                                        "wordBreak": "break-word",
+                                      }
+                                    }
+                                  >
+                                    google
+                                  </span>
                                   "
                                 </span>
                               </span>
                             </span>
-                          </span>
-                          <span>
                             <span>
-                              <br />
-                                
-                            </span>
-                            <span
-                              style={Object {}}
-                            >
-                              icon
-                            </span>
-                            <span>
-                              =
+                              <span>
+                                <br />
+                                  
+                              </span>
                               <span
                                 style={Object {}}
                               >
-                                <span>
+                                icon
+                              </span>
+                              <span>
+                                =
+                                <span
+                                  style={Object {}}
+                                >
                                   {
                                   <span
                                     style={
@@ -2371,52 +2419,72 @@ exports[`Storyshots Button Social buttons 1`] = `
                                 </span>
                               </span>
                             </span>
-                          </span>
-                          <span>
                             <span>
+                              <span>
+                                <br />
+                                  
+                              </span>
+                              <span
+                                style={Object {}}
+                              >
+                                bordered
+                              </span>
                               <br />
-                                
                             </span>
-                            <span
-                              style={Object {}}
-                            >
-                              bordered
-                            </span>
-                            <br />
                           </span>
-                        </span>
-                        <span
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &gt;
+                          </span>
+                        </div>
+                        <div
                           style={
                             Object {
-                              "color": "#777",
+                              "paddingLeft": 48,
+                              "paddingRight": 3,
                             }
                           }
                         >
-                          &gt;
-                        </span>
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            Sign in with Google
+                          </span>
+                        </div>
+                        <div
+                          style={
+                            Object {
+                              "paddingLeft": 33,
+                              "paddingRight": 3,
+                            }
+                          }
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &lt;/
+                            Button
+                            &gt;
+                          </span>
+                        </div>
                       </div>
                       <div
                         style={
                           Object {
-                            "paddingLeft": 48,
-                            "paddingRight": 3,
-                          }
-                        }
-                      >
-                        <span
-                          style={
-                            Object {
-                              "color": "#777",
-                            }
-                          }
-                        >
-                          Sign in with Google
-                        </span>
-                      </div>
-                      <div
-                        style={
-                          Object {
-                            "paddingLeft": 33,
+                            "paddingLeft": 18,
                             "paddingRight": 3,
                           }
                         }
@@ -2429,32 +2497,33 @@ exports[`Storyshots Button Social buttons 1`] = `
                           }
                         >
                           &lt;/
-                          Button
+                          ThemeProvider
                           &gt;
                         </span>
                       </div>
                     </div>
+                  </div>
+                  <button
+                    className="css-gydez8"
+                    onClick={[Function]}
+                  >
                     <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
+                      className="css-kv47nt"
                     >
-                      <span
+                      <div
                         style={
                           Object {
-                            "color": "#777",
+                            "marginBottom": 6,
                           }
                         }
                       >
-                        &lt;/
-                        ThemeProvider
-                        &gt;
-                      </span>
+                        Copied!
+                      </div>
+                      <div>
+                        Copy
+                      </div>
                     </div>
-                  </div>
+                  </button>
                 </pre>
               </div>
             </div>
@@ -2576,7 +2645,6 @@ exports[`Storyshots Button Status buttons 1`] = `
               size="small"
             >
               <svg
-                className={undefined}
                 fill="currentColor"
                 height="24px"
                 preserveAspectRatio="xMidYMid meet"
@@ -2621,52 +2689,14 @@ exports[`Storyshots Button Status buttons 1`] = `
                   Source
                 </h4>
                 <pre
-                  style={
-                    Object {
-                      "backgroundColor": "#fafafa",
-                      "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
-                      "fontSize": ".88em",
-                      "lineHeight": 1.5,
-                      "overflowX": "scroll",
-                      "padding": ".5rem",
-                    }
-                  }
+                  className="css-4akams"
                 >
                   <div>
-                    <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
-                    >
-                      <span
-                        style={
-                          Object {
-                            "color": "#777",
-                          }
-                        }
-                      >
-                        &lt;
-                        ThemeProvider
-                      </span>
-                      <span />
-                      <span
-                        style={
-                          Object {
-                            "color": "#777",
-                          }
-                        }
-                      >
-                        &gt;
-                      </span>
-                    </div>
                     <div>
                       <div
                         style={
                           Object {
-                            "paddingLeft": 33,
+                            "paddingLeft": 18,
                             "paddingRight": 3,
                           }
                         }
@@ -2679,55 +2709,84 @@ exports[`Storyshots Button Status buttons 1`] = `
                           }
                         >
                           &lt;
-                          Button
+                          ThemeProvider
                         </span>
-                        <span>
+                        <span />
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          &gt;
+                        </span>
+                      </div>
+                      <div>
+                        <div
+                          style={
+                            Object {
+                              "paddingLeft": 33,
+                              "paddingRight": 3,
+                            }
+                          }
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &lt;
+                            Button
+                          </span>
                           <span>
                             <span>
-                              <br />
-                                
-                            </span>
-                            <span
-                              style={Object {}}
-                            >
-                              title
-                            </span>
-                            <span>
-                              =
+                              <span>
+                                <br />
+                                  
+                              </span>
                               <span
                                 style={Object {}}
                               >
+                                title
+                              </span>
+                              <span>
+                                =
                                 <span
-                                  style={
-                                    Object {
-                                      "color": "#22a",
-                                      "wordBreak": "break-word",
-                                    }
-                                  }
+                                  style={Object {}}
                                 >
                                   "
-                                  Button
+                                  <span
+                                    style={
+                                      Object {
+                                        "color": "#22a",
+                                        "wordBreak": "break-word",
+                                      }
+                                    }
+                                  >
+                                    Button
+                                  </span>
                                   "
                                 </span>
                               </span>
                             </span>
-                          </span>
-                          <span>
                             <span>
-                              <br />
-                                
-                            </span>
-                            <span
-                              style={Object {}}
-                            >
-                              onClick
-                            </span>
-                            <span>
-                              =
+                              <span>
+                                <br />
+                                  
+                              </span>
                               <span
                                 style={Object {}}
                               >
-                                <span>
+                                onClick
+                              </span>
+                              <span>
+                                =
+                                <span
+                                  style={Object {}}
+                                >
                                   {
                                   <span
                                     style={
@@ -2742,83 +2801,81 @@ exports[`Storyshots Button Status buttons 1`] = `
                                 </span>
                               </span>
                             </span>
-                          </span>
-                          <span>
                             <span>
-                              <br />
-                                
-                            </span>
-                            <span
-                              style={Object {}}
-                            >
-                              type
-                            </span>
-                            <span>
-                              =
+                              <span>
+                                <br />
+                                  
+                              </span>
                               <span
                                 style={Object {}}
                               >
+                                type
+                              </span>
+                              <span>
+                                =
                                 <span
-                                  style={
-                                    Object {
-                                      "color": "#22a",
-                                      "wordBreak": "break-word",
-                                    }
-                                  }
+                                  style={Object {}}
                                 >
                                   "
-                                  info
+                                  <span
+                                    style={
+                                      Object {
+                                        "color": "#22a",
+                                        "wordBreak": "break-word",
+                                      }
+                                    }
+                                  >
+                                    info
+                                  </span>
                                   "
                                 </span>
                               </span>
                             </span>
-                          </span>
-                          <span>
                             <span>
-                              <br />
-                                
-                            </span>
-                            <span
-                              style={Object {}}
-                            >
-                              size
-                            </span>
-                            <span>
-                              =
+                              <span>
+                                <br />
+                                  
+                              </span>
                               <span
                                 style={Object {}}
                               >
+                                size
+                              </span>
+                              <span>
+                                =
                                 <span
-                                  style={
-                                    Object {
-                                      "color": "#22a",
-                                      "wordBreak": "break-word",
-                                    }
-                                  }
+                                  style={Object {}}
                                 >
                                   "
-                                  small
+                                  <span
+                                    style={
+                                      Object {
+                                        "color": "#22a",
+                                        "wordBreak": "break-word",
+                                      }
+                                    }
+                                  >
+                                    small
+                                  </span>
                                   "
                                 </span>
                               </span>
                             </span>
-                          </span>
-                          <span>
                             <span>
-                              <br />
-                                
-                            </span>
-                            <span
-                              style={Object {}}
-                            >
-                              icon
-                            </span>
-                            <span>
-                              =
+                              <span>
+                                <br />
+                                  
+                              </span>
                               <span
                                 style={Object {}}
                               >
-                                <span>
+                                icon
+                              </span>
+                              <span>
+                                =
+                                <span
+                                  style={Object {}}
+                                >
                                   {
                                   <span
                                     style={
@@ -2832,42 +2889,62 @@ exports[`Storyshots Button Status buttons 1`] = `
                                   }
                                 </span>
                               </span>
+                              <br />
                             </span>
-                            <br />
                           </span>
-                        </span>
-                        <span
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &gt;
+                          </span>
+                        </div>
+                        <div
                           style={
                             Object {
-                              "color": "#777",
+                              "paddingLeft": 48,
+                              "paddingRight": 3,
                             }
                           }
                         >
-                          &gt;
-                        </span>
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            Button
+                          </span>
+                        </div>
+                        <div
+                          style={
+                            Object {
+                              "paddingLeft": 33,
+                              "paddingRight": 3,
+                            }
+                          }
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &lt;/
+                            Button
+                            &gt;
+                          </span>
+                        </div>
                       </div>
                       <div
                         style={
                           Object {
-                            "paddingLeft": 48,
-                            "paddingRight": 3,
-                          }
-                        }
-                      >
-                        <span
-                          style={
-                            Object {
-                              "color": "#777",
-                            }
-                          }
-                        >
-                          Button
-                        </span>
-                      </div>
-                      <div
-                        style={
-                          Object {
-                            "paddingLeft": 33,
+                            "paddingLeft": 18,
                             "paddingRight": 3,
                           }
                         }
@@ -2880,32 +2957,33 @@ exports[`Storyshots Button Status buttons 1`] = `
                           }
                         >
                           &lt;/
-                          Button
+                          ThemeProvider
                           &gt;
                         </span>
                       </div>
                     </div>
+                  </div>
+                  <button
+                    className="css-gydez8"
+                    onClick={[Function]}
+                  >
                     <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
+                      className="css-kv47nt"
                     >
-                      <span
+                      <div
                         style={
                           Object {
-                            "color": "#777",
+                            "marginBottom": 6,
                           }
                         }
                       >
-                        &lt;/
-                        ThemeProvider
-                        &gt;
-                      </span>
+                        Copied!
+                      </div>
+                      <div>
+                        Copy
+                      </div>
                     </div>
-                  </div>
+                  </button>
                 </pre>
               </div>
             </div>
@@ -2951,7 +3029,6 @@ exports[`Storyshots Button Status buttons 1`] = `
               size="small"
             >
               <svg
-                className={undefined}
                 fill="currentColor"
                 height="24px"
                 preserveAspectRatio="xMidYMid meet"
@@ -2996,52 +3073,14 @@ exports[`Storyshots Button Status buttons 1`] = `
                   Source
                 </h4>
                 <pre
-                  style={
-                    Object {
-                      "backgroundColor": "#fafafa",
-                      "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
-                      "fontSize": ".88em",
-                      "lineHeight": 1.5,
-                      "overflowX": "scroll",
-                      "padding": ".5rem",
-                    }
-                  }
+                  className="css-4akams"
                 >
                   <div>
-                    <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
-                    >
-                      <span
-                        style={
-                          Object {
-                            "color": "#777",
-                          }
-                        }
-                      >
-                        &lt;
-                        ThemeProvider
-                      </span>
-                      <span />
-                      <span
-                        style={
-                          Object {
-                            "color": "#777",
-                          }
-                        }
-                      >
-                        &gt;
-                      </span>
-                    </div>
                     <div>
                       <div
                         style={
                           Object {
-                            "paddingLeft": 33,
+                            "paddingLeft": 18,
                             "paddingRight": 3,
                           }
                         }
@@ -3054,25 +3093,54 @@ exports[`Storyshots Button Status buttons 1`] = `
                           }
                         >
                           &lt;
-                          Button
+                          ThemeProvider
                         </span>
-                        <span>
+                        <span />
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          &gt;
+                        </span>
+                      </div>
+                      <div>
+                        <div
+                          style={
+                            Object {
+                              "paddingLeft": 33,
+                              "paddingRight": 3,
+                            }
+                          }
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &lt;
+                            Button
+                          </span>
                           <span>
                             <span>
-                              <br />
-                                
-                            </span>
-                            <span
-                              style={Object {}}
-                            >
-                              onClick
-                            </span>
-                            <span>
-                              =
+                              <span>
+                                <br />
+                                  
+                              </span>
                               <span
                                 style={Object {}}
                               >
-                                <span>
+                                onClick
+                              </span>
+                              <span>
+                                =
+                                <span
+                                  style={Object {}}
+                                >
                                   {
                                   <span
                                     style={
@@ -3087,83 +3155,81 @@ exports[`Storyshots Button Status buttons 1`] = `
                                 </span>
                               </span>
                             </span>
-                          </span>
-                          <span>
                             <span>
-                              <br />
-                                
-                            </span>
-                            <span
-                              style={Object {}}
-                            >
-                              type
-                            </span>
-                            <span>
-                              =
+                              <span>
+                                <br />
+                                  
+                              </span>
                               <span
                                 style={Object {}}
                               >
+                                type
+                              </span>
+                              <span>
+                                =
                                 <span
-                                  style={
-                                    Object {
-                                      "color": "#22a",
-                                      "wordBreak": "break-word",
-                                    }
-                                  }
+                                  style={Object {}}
                                 >
                                   "
-                                  success
+                                  <span
+                                    style={
+                                      Object {
+                                        "color": "#22a",
+                                        "wordBreak": "break-word",
+                                      }
+                                    }
+                                  >
+                                    success
+                                  </span>
                                   "
                                 </span>
                               </span>
                             </span>
-                          </span>
-                          <span>
                             <span>
-                              <br />
-                                
-                            </span>
-                            <span
-                              style={Object {}}
-                            >
-                              size
-                            </span>
-                            <span>
-                              =
+                              <span>
+                                <br />
+                                  
+                              </span>
                               <span
                                 style={Object {}}
                               >
+                                size
+                              </span>
+                              <span>
+                                =
                                 <span
-                                  style={
-                                    Object {
-                                      "color": "#22a",
-                                      "wordBreak": "break-word",
-                                    }
-                                  }
+                                  style={Object {}}
                                 >
                                   "
-                                  small
+                                  <span
+                                    style={
+                                      Object {
+                                        "color": "#22a",
+                                        "wordBreak": "break-word",
+                                      }
+                                    }
+                                  >
+                                    small
+                                  </span>
                                   "
                                 </span>
                               </span>
                             </span>
-                          </span>
-                          <span>
                             <span>
-                              <br />
-                                
-                            </span>
-                            <span
-                              style={Object {}}
-                            >
-                              icon
-                            </span>
-                            <span>
-                              =
+                              <span>
+                                <br />
+                                  
+                              </span>
                               <span
                                 style={Object {}}
                               >
-                                <span>
+                                icon
+                              </span>
+                              <span>
+                                =
+                                <span
+                                  style={Object {}}
+                                >
                                   {
                                   <span
                                     style={
@@ -3177,42 +3243,62 @@ exports[`Storyshots Button Status buttons 1`] = `
                                   }
                                 </span>
                               </span>
+                              <br />
                             </span>
-                            <br />
                           </span>
-                        </span>
-                        <span
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &gt;
+                          </span>
+                        </div>
+                        <div
                           style={
                             Object {
-                              "color": "#777",
+                              "paddingLeft": 48,
+                              "paddingRight": 3,
                             }
                           }
                         >
-                          &gt;
-                        </span>
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            Button
+                          </span>
+                        </div>
+                        <div
+                          style={
+                            Object {
+                              "paddingLeft": 33,
+                              "paddingRight": 3,
+                            }
+                          }
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &lt;/
+                            Button
+                            &gt;
+                          </span>
+                        </div>
                       </div>
                       <div
                         style={
                           Object {
-                            "paddingLeft": 48,
-                            "paddingRight": 3,
-                          }
-                        }
-                      >
-                        <span
-                          style={
-                            Object {
-                              "color": "#777",
-                            }
-                          }
-                        >
-                          Button
-                        </span>
-                      </div>
-                      <div
-                        style={
-                          Object {
-                            "paddingLeft": 33,
+                            "paddingLeft": 18,
                             "paddingRight": 3,
                           }
                         }
@@ -3225,32 +3311,33 @@ exports[`Storyshots Button Status buttons 1`] = `
                           }
                         >
                           &lt;/
-                          Button
+                          ThemeProvider
                           &gt;
                         </span>
                       </div>
                     </div>
+                  </div>
+                  <button
+                    className="css-gydez8"
+                    onClick={[Function]}
+                  >
                     <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
+                      className="css-kv47nt"
                     >
-                      <span
+                      <div
                         style={
                           Object {
-                            "color": "#777",
+                            "marginBottom": 6,
                           }
                         }
                       >
-                        &lt;/
-                        ThemeProvider
-                        &gt;
-                      </span>
+                        Copied!
+                      </div>
+                      <div>
+                        Copy
+                      </div>
                     </div>
-                  </div>
+                  </button>
                 </pre>
               </div>
             </div>
@@ -3296,7 +3383,6 @@ exports[`Storyshots Button Status buttons 1`] = `
               size="small"
             >
               <svg
-                className={undefined}
                 fill="currentColor"
                 height="24px"
                 preserveAspectRatio="xMidYMid meet"
@@ -3341,52 +3427,14 @@ exports[`Storyshots Button Status buttons 1`] = `
                   Source
                 </h4>
                 <pre
-                  style={
-                    Object {
-                      "backgroundColor": "#fafafa",
-                      "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
-                      "fontSize": ".88em",
-                      "lineHeight": 1.5,
-                      "overflowX": "scroll",
-                      "padding": ".5rem",
-                    }
-                  }
+                  className="css-4akams"
                 >
                   <div>
-                    <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
-                    >
-                      <span
-                        style={
-                          Object {
-                            "color": "#777",
-                          }
-                        }
-                      >
-                        &lt;
-                        ThemeProvider
-                      </span>
-                      <span />
-                      <span
-                        style={
-                          Object {
-                            "color": "#777",
-                          }
-                        }
-                      >
-                        &gt;
-                      </span>
-                    </div>
                     <div>
                       <div
                         style={
                           Object {
-                            "paddingLeft": 33,
+                            "paddingLeft": 18,
                             "paddingRight": 3,
                           }
                         }
@@ -3399,25 +3447,54 @@ exports[`Storyshots Button Status buttons 1`] = `
                           }
                         >
                           &lt;
-                          Button
+                          ThemeProvider
                         </span>
-                        <span>
+                        <span />
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          &gt;
+                        </span>
+                      </div>
+                      <div>
+                        <div
+                          style={
+                            Object {
+                              "paddingLeft": 33,
+                              "paddingRight": 3,
+                            }
+                          }
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &lt;
+                            Button
+                          </span>
                           <span>
                             <span>
-                              <br />
-                                
-                            </span>
-                            <span
-                              style={Object {}}
-                            >
-                              onClick
-                            </span>
-                            <span>
-                              =
+                              <span>
+                                <br />
+                                  
+                              </span>
                               <span
                                 style={Object {}}
                               >
-                                <span>
+                                onClick
+                              </span>
+                              <span>
+                                =
+                                <span
+                                  style={Object {}}
+                                >
                                   {
                                   <span
                                     style={
@@ -3432,83 +3509,81 @@ exports[`Storyshots Button Status buttons 1`] = `
                                 </span>
                               </span>
                             </span>
-                          </span>
-                          <span>
                             <span>
-                              <br />
-                                
-                            </span>
-                            <span
-                              style={Object {}}
-                            >
-                              type
-                            </span>
-                            <span>
-                              =
+                              <span>
+                                <br />
+                                  
+                              </span>
                               <span
                                 style={Object {}}
                               >
+                                type
+                              </span>
+                              <span>
+                                =
                                 <span
-                                  style={
-                                    Object {
-                                      "color": "#22a",
-                                      "wordBreak": "break-word",
-                                    }
-                                  }
+                                  style={Object {}}
                                 >
                                   "
-                                  warning
+                                  <span
+                                    style={
+                                      Object {
+                                        "color": "#22a",
+                                        "wordBreak": "break-word",
+                                      }
+                                    }
+                                  >
+                                    warning
+                                  </span>
                                   "
                                 </span>
                               </span>
                             </span>
-                          </span>
-                          <span>
                             <span>
-                              <br />
-                                
-                            </span>
-                            <span
-                              style={Object {}}
-                            >
-                              size
-                            </span>
-                            <span>
-                              =
+                              <span>
+                                <br />
+                                  
+                              </span>
                               <span
                                 style={Object {}}
                               >
+                                size
+                              </span>
+                              <span>
+                                =
                                 <span
-                                  style={
-                                    Object {
-                                      "color": "#22a",
-                                      "wordBreak": "break-word",
-                                    }
-                                  }
+                                  style={Object {}}
                                 >
                                   "
-                                  small
+                                  <span
+                                    style={
+                                      Object {
+                                        "color": "#22a",
+                                        "wordBreak": "break-word",
+                                      }
+                                    }
+                                  >
+                                    small
+                                  </span>
                                   "
                                 </span>
                               </span>
                             </span>
-                          </span>
-                          <span>
                             <span>
-                              <br />
-                                
-                            </span>
-                            <span
-                              style={Object {}}
-                            >
-                              icon
-                            </span>
-                            <span>
-                              =
+                              <span>
+                                <br />
+                                  
+                              </span>
                               <span
                                 style={Object {}}
                               >
-                                <span>
+                                icon
+                              </span>
+                              <span>
+                                =
+                                <span
+                                  style={Object {}}
+                                >
                                   {
                                   <span
                                     style={
@@ -3522,42 +3597,62 @@ exports[`Storyshots Button Status buttons 1`] = `
                                   }
                                 </span>
                               </span>
+                              <br />
                             </span>
-                            <br />
                           </span>
-                        </span>
-                        <span
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &gt;
+                          </span>
+                        </div>
+                        <div
                           style={
                             Object {
-                              "color": "#777",
+                              "paddingLeft": 48,
+                              "paddingRight": 3,
                             }
                           }
                         >
-                          &gt;
-                        </span>
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            Button
+                          </span>
+                        </div>
+                        <div
+                          style={
+                            Object {
+                              "paddingLeft": 33,
+                              "paddingRight": 3,
+                            }
+                          }
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &lt;/
+                            Button
+                            &gt;
+                          </span>
+                        </div>
                       </div>
                       <div
                         style={
                           Object {
-                            "paddingLeft": 48,
-                            "paddingRight": 3,
-                          }
-                        }
-                      >
-                        <span
-                          style={
-                            Object {
-                              "color": "#777",
-                            }
-                          }
-                        >
-                          Button
-                        </span>
-                      </div>
-                      <div
-                        style={
-                          Object {
-                            "paddingLeft": 33,
+                            "paddingLeft": 18,
                             "paddingRight": 3,
                           }
                         }
@@ -3570,32 +3665,33 @@ exports[`Storyshots Button Status buttons 1`] = `
                           }
                         >
                           &lt;/
-                          Button
+                          ThemeProvider
                           &gt;
                         </span>
                       </div>
                     </div>
+                  </div>
+                  <button
+                    className="css-gydez8"
+                    onClick={[Function]}
+                  >
                     <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
+                      className="css-kv47nt"
                     >
-                      <span
+                      <div
                         style={
                           Object {
-                            "color": "#777",
+                            "marginBottom": 6,
                           }
                         }
                       >
-                        &lt;/
-                        ThemeProvider
-                        &gt;
-                      </span>
+                        Copied!
+                      </div>
+                      <div>
+                        Copy
+                      </div>
                     </div>
-                  </div>
+                  </button>
                 </pre>
               </div>
             </div>
@@ -3641,7 +3737,6 @@ exports[`Storyshots Button Status buttons 1`] = `
               size="small"
             >
               <svg
-                className={undefined}
                 fill="currentColor"
                 height="24px"
                 preserveAspectRatio="xMidYMid meet"
@@ -3686,52 +3781,14 @@ exports[`Storyshots Button Status buttons 1`] = `
                   Source
                 </h4>
                 <pre
-                  style={
-                    Object {
-                      "backgroundColor": "#fafafa",
-                      "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
-                      "fontSize": ".88em",
-                      "lineHeight": 1.5,
-                      "overflowX": "scroll",
-                      "padding": ".5rem",
-                    }
-                  }
+                  className="css-4akams"
                 >
                   <div>
-                    <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
-                    >
-                      <span
-                        style={
-                          Object {
-                            "color": "#777",
-                          }
-                        }
-                      >
-                        &lt;
-                        ThemeProvider
-                      </span>
-                      <span />
-                      <span
-                        style={
-                          Object {
-                            "color": "#777",
-                          }
-                        }
-                      >
-                        &gt;
-                      </span>
-                    </div>
                     <div>
                       <div
                         style={
                           Object {
-                            "paddingLeft": 33,
+                            "paddingLeft": 18,
                             "paddingRight": 3,
                           }
                         }
@@ -3744,25 +3801,54 @@ exports[`Storyshots Button Status buttons 1`] = `
                           }
                         >
                           &lt;
-                          Button
+                          ThemeProvider
                         </span>
-                        <span>
+                        <span />
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          &gt;
+                        </span>
+                      </div>
+                      <div>
+                        <div
+                          style={
+                            Object {
+                              "paddingLeft": 33,
+                              "paddingRight": 3,
+                            }
+                          }
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &lt;
+                            Button
+                          </span>
                           <span>
                             <span>
-                              <br />
-                                
-                            </span>
-                            <span
-                              style={Object {}}
-                            >
-                              onClick
-                            </span>
-                            <span>
-                              =
+                              <span>
+                                <br />
+                                  
+                              </span>
                               <span
                                 style={Object {}}
                               >
-                                <span>
+                                onClick
+                              </span>
+                              <span>
+                                =
+                                <span
+                                  style={Object {}}
+                                >
                                   {
                                   <span
                                     style={
@@ -3777,83 +3863,81 @@ exports[`Storyshots Button Status buttons 1`] = `
                                 </span>
                               </span>
                             </span>
-                          </span>
-                          <span>
                             <span>
-                              <br />
-                                
-                            </span>
-                            <span
-                              style={Object {}}
-                            >
-                              type
-                            </span>
-                            <span>
-                              =
+                              <span>
+                                <br />
+                                  
+                              </span>
                               <span
                                 style={Object {}}
                               >
+                                type
+                              </span>
+                              <span>
+                                =
                                 <span
-                                  style={
-                                    Object {
-                                      "color": "#22a",
-                                      "wordBreak": "break-word",
-                                    }
-                                  }
+                                  style={Object {}}
                                 >
                                   "
-                                  critical
+                                  <span
+                                    style={
+                                      Object {
+                                        "color": "#22a",
+                                        "wordBreak": "break-word",
+                                      }
+                                    }
+                                  >
+                                    critical
+                                  </span>
                                   "
                                 </span>
                               </span>
                             </span>
-                          </span>
-                          <span>
                             <span>
-                              <br />
-                                
-                            </span>
-                            <span
-                              style={Object {}}
-                            >
-                              size
-                            </span>
-                            <span>
-                              =
+                              <span>
+                                <br />
+                                  
+                              </span>
                               <span
                                 style={Object {}}
                               >
+                                size
+                              </span>
+                              <span>
+                                =
                                 <span
-                                  style={
-                                    Object {
-                                      "color": "#22a",
-                                      "wordBreak": "break-word",
-                                    }
-                                  }
+                                  style={Object {}}
                                 >
                                   "
-                                  small
+                                  <span
+                                    style={
+                                      Object {
+                                        "color": "#22a",
+                                        "wordBreak": "break-word",
+                                      }
+                                    }
+                                  >
+                                    small
+                                  </span>
                                   "
                                 </span>
                               </span>
                             </span>
-                          </span>
-                          <span>
                             <span>
-                              <br />
-                                
-                            </span>
-                            <span
-                              style={Object {}}
-                            >
-                              icon
-                            </span>
-                            <span>
-                              =
+                              <span>
+                                <br />
+                                  
+                              </span>
                               <span
                                 style={Object {}}
                               >
-                                <span>
+                                icon
+                              </span>
+                              <span>
+                                =
+                                <span
+                                  style={Object {}}
+                                >
                                   {
                                   <span
                                     style={
@@ -3867,42 +3951,62 @@ exports[`Storyshots Button Status buttons 1`] = `
                                   }
                                 </span>
                               </span>
+                              <br />
                             </span>
-                            <br />
                           </span>
-                        </span>
-                        <span
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &gt;
+                          </span>
+                        </div>
+                        <div
                           style={
                             Object {
-                              "color": "#777",
+                              "paddingLeft": 48,
+                              "paddingRight": 3,
                             }
                           }
                         >
-                          &gt;
-                        </span>
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            Button
+                          </span>
+                        </div>
+                        <div
+                          style={
+                            Object {
+                              "paddingLeft": 33,
+                              "paddingRight": 3,
+                            }
+                          }
+                        >
+                          <span
+                            style={
+                              Object {
+                                "color": "#777",
+                              }
+                            }
+                          >
+                            &lt;/
+                            Button
+                            &gt;
+                          </span>
+                        </div>
                       </div>
                       <div
                         style={
                           Object {
-                            "paddingLeft": 48,
-                            "paddingRight": 3,
-                          }
-                        }
-                      >
-                        <span
-                          style={
-                            Object {
-                              "color": "#777",
-                            }
-                          }
-                        >
-                          Button
-                        </span>
-                      </div>
-                      <div
-                        style={
-                          Object {
-                            "paddingLeft": 33,
+                            "paddingLeft": 18,
                             "paddingRight": 3,
                           }
                         }
@@ -3915,32 +4019,33 @@ exports[`Storyshots Button Status buttons 1`] = `
                           }
                         >
                           &lt;/
-                          Button
+                          ThemeProvider
                           &gt;
                         </span>
                       </div>
                     </div>
+                  </div>
+                  <button
+                    className="css-gydez8"
+                    onClick={[Function]}
+                  >
                     <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
+                      className="css-kv47nt"
                     >
-                      <span
+                      <div
                         style={
                           Object {
-                            "color": "#777",
+                            "marginBottom": 6,
                           }
                         }
                       >
-                        &lt;/
-                        ThemeProvider
-                        &gt;
-                      </span>
+                        Copied!
+                      </div>
+                      <div>
+                        Copy
+                      </div>
                     </div>
-                  </div>
+                  </button>
                 </pre>
               </div>
             </div>

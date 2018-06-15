@@ -102,9 +102,7 @@ exports[`Storyshots ButtonLink Default 1`] = `
             className="ButtonLink__StyledButton-hvelaB VUReO"
             disabled={false}
             href="https://kiwi.com"
-            onClick={undefined}
             size="normal"
-            target={undefined}
           >
             ButtonLink
           </a>
@@ -133,115 +131,129 @@ exports[`Storyshots ButtonLink Default 1`] = `
                   Source
                 </h4>
                 <pre
-                  style={
-                    Object {
-                      "backgroundColor": "#fafafa",
-                      "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
-                      "fontSize": ".88em",
-                      "lineHeight": 1.5,
-                      "overflowX": "scroll",
-                      "padding": ".5rem",
-                    }
-                  }
+                  className="css-4akams"
                 >
                   <div>
-                    <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
-                    >
-                      <span
+                    <div>
+                      <div
                         style={
                           Object {
-                            "color": "#777",
+                            "paddingLeft": 18,
+                            "paddingRight": 3,
                           }
                         }
                       >
-                        &lt;
-                        ButtonLink
-                      </span>
-                      <span>
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          &lt;
+                          ButtonLink
+                        </span>
                         <span>
-                           
-                          <span
-                            style={Object {}}
-                          >
-                            href
-                          </span>
                           <span>
-                            =
+                             
                             <span
                               style={Object {}}
                             >
+                              href
+                            </span>
+                            <span>
+                              =
                               <span
-                                style={
-                                  Object {
-                                    "color": "#22a",
-                                    "wordBreak": "break-word",
-                                  }
-                                }
+                                style={Object {}}
                               >
                                 "
-                                https://kiwi.com
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#22a",
+                                      "wordBreak": "break-word",
+                                    }
+                                  }
+                                >
+                                  https://kiwi.com
+                                </span>
                                 "
                               </span>
                             </span>
+                            
                           </span>
-                          
                         </span>
-                      </span>
-                      <span
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          &gt;
+                        </span>
+                      </div>
+                      <div
                         style={
                           Object {
-                            "color": "#777",
+                            "paddingLeft": 33,
+                            "paddingRight": 3,
                           }
                         }
                       >
-                        &gt;
-                      </span>
-                    </div>
-                    <div
-                      style={
-                        Object {
-                          "paddingLeft": 33,
-                          "paddingRight": 3,
-                        }
-                      }
-                    >
-                      <span
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          ButtonLink
+                        </span>
+                      </div>
+                      <div
                         style={
                           Object {
-                            "color": "#777",
+                            "paddingLeft": 18,
+                            "paddingRight": 3,
                           }
                         }
                       >
-                        ButtonLink
-                      </span>
-                    </div>
-                    <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
-                    >
-                      <span
-                        style={
-                          Object {
-                            "color": "#777",
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
                           }
-                        }
-                      >
-                        &lt;/
-                        ButtonLink
-                        &gt;
-                      </span>
+                        >
+                          &lt;/
+                          ButtonLink
+                          &gt;
+                        </span>
+                      </div>
                     </div>
                   </div>
+                  <button
+                    className="css-gydez8"
+                    onClick={[Function]}
+                  >
+                    <div
+                      className="css-kv47nt"
+                    >
+                      <div
+                        style={
+                          Object {
+                            "marginBottom": 6,
+                          }
+                        }
+                      >
+                        Copied!
+                      </div>
+                      <div>
+                        Copy
+                      </div>
+                    </div>
+                  </button>
                 </pre>
               </div>
             </div>
@@ -357,14 +369,12 @@ exports[`Storyshots ButtonLink Playground 1`] = `
             href=""
             onClick={[Function]}
             size="large"
-            target={undefined}
           >
             <div
               className="ButtonLink__IconContainer-flENJD fktYwF"
               size="large"
             >
               <svg
-                className={undefined}
                 fill="currentColor"
                 height="24px"
                 preserveAspectRatio="xMidYMid meet"
@@ -409,143 +419,134 @@ exports[`Storyshots ButtonLink Playground 1`] = `
                   Source
                 </h4>
                 <pre
-                  style={
-                    Object {
-                      "backgroundColor": "#fafafa",
-                      "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
-                      "fontSize": ".88em",
-                      "lineHeight": 1.5,
-                      "overflowX": "scroll",
-                      "padding": ".5rem",
-                    }
-                  }
+                  className="css-4akams"
                 >
                   <div>
-                    <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
-                    >
-                      <span
+                    <div>
+                      <div
                         style={
                           Object {
-                            "color": "#777",
+                            "paddingLeft": 18,
+                            "paddingRight": 3,
                           }
                         }
                       >
-                        &lt;
-                        ButtonLink
-                      </span>
-                      <span>
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          &lt;
+                          ButtonLink
+                        </span>
                         <span>
                           <span>
-                            <br />
-                              
-                          </span>
-                          <span
-                            style={Object {}}
-                          >
-                            type
-                          </span>
-                          <span>
-                            =
+                            <span>
+                              <br />
+                                
+                            </span>
                             <span
                               style={Object {}}
                             >
+                              type
+                            </span>
+                            <span>
+                              =
                               <span
-                                style={
-                                  Object {
-                                    "color": "#22a",
-                                    "wordBreak": "break-word",
-                                  }
-                                }
+                                style={Object {}}
                               >
                                 "
-                                secondary
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#22a",
+                                      "wordBreak": "break-word",
+                                    }
+                                  }
+                                >
+                                  secondary
+                                </span>
                                 "
                               </span>
                             </span>
                           </span>
-                        </span>
-                        <span>
                           <span>
-                            <br />
-                              
-                          </span>
-                          <span
-                            style={Object {}}
-                          >
-                            size
-                          </span>
-                          <span>
-                            =
+                            <span>
+                              <br />
+                                
+                            </span>
                             <span
                               style={Object {}}
                             >
+                              size
+                            </span>
+                            <span>
+                              =
                               <span
-                                style={
-                                  Object {
-                                    "color": "#22a",
-                                    "wordBreak": "break-word",
-                                  }
-                                }
+                                style={Object {}}
                               >
                                 "
-                                large
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#22a",
+                                      "wordBreak": "break-word",
+                                    }
+                                  }
+                                >
+                                  large
+                                </span>
                                 "
                               </span>
                             </span>
                           </span>
-                        </span>
-                        <span>
                           <span>
-                            <br />
-                              
-                          </span>
-                          <span
-                            style={Object {}}
-                          >
-                            href
-                          </span>
-                          <span>
-                            =
+                            <span>
+                              <br />
+                                
+                            </span>
                             <span
                               style={Object {}}
                             >
+                              href
+                            </span>
+                            <span>
+                              =
                               <span
-                                style={
-                                  Object {
-                                    "color": "#22a",
-                                    "wordBreak": "break-word",
-                                  }
-                                }
+                                style={Object {}}
                               >
                                 "
-                                
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#22a",
+                                      "wordBreak": "break-word",
+                                    }
+                                  }
+                                >
+                                  
+                                </span>
                                 "
                               </span>
                             </span>
                           </span>
-                        </span>
-                        <span>
                           <span>
-                            <br />
-                              
-                          </span>
-                          <span
-                            style={Object {}}
-                          >
-                            icon
-                          </span>
-                          <span>
-                            =
+                            <span>
+                              <br />
+                                
+                            </span>
                             <span
                               style={Object {}}
                             >
-                              <span>
+                              icon
+                            </span>
+                            <span>
+                              =
+                              <span
+                                style={Object {}}
+                              >
                                 {
                                 <span
                                   style={
@@ -560,23 +561,21 @@ exports[`Storyshots ButtonLink Playground 1`] = `
                               </span>
                             </span>
                           </span>
-                        </span>
-                        <span>
                           <span>
-                            <br />
-                              
-                          </span>
-                          <span
-                            style={Object {}}
-                          >
-                            onClick
-                          </span>
-                          <span>
-                            =
+                            <span>
+                              <br />
+                                
+                            </span>
                             <span
                               style={Object {}}
                             >
-                              <span>
+                              onClick
+                            </span>
+                            <span>
+                              =
+                              <span
+                                style={Object {}}
+                              >
                                 {
                                 <span
                                   style={
@@ -590,59 +589,80 @@ exports[`Storyshots ButtonLink Playground 1`] = `
                                 }
                               </span>
                             </span>
+                            <br />
                           </span>
-                          <br />
                         </span>
-                      </span>
-                      <span
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          &gt;
+                        </span>
+                      </div>
+                      <div
                         style={
                           Object {
-                            "color": "#777",
+                            "paddingLeft": 33,
+                            "paddingRight": 3,
                           }
                         }
                       >
-                        &gt;
-                      </span>
-                    </div>
-                    <div
-                      style={
-                        Object {
-                          "paddingLeft": 33,
-                          "paddingRight": 3,
-                        }
-                      }
-                    >
-                      <span
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          ButtonLink
+                        </span>
+                      </div>
+                      <div
                         style={
                           Object {
-                            "color": "#777",
+                            "paddingLeft": 18,
+                            "paddingRight": 3,
                           }
                         }
                       >
-                        ButtonLink
-                      </span>
-                    </div>
-                    <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
-                    >
-                      <span
-                        style={
-                          Object {
-                            "color": "#777",
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
                           }
-                        }
-                      >
-                        &lt;/
-                        ButtonLink
-                        &gt;
-                      </span>
+                        >
+                          &lt;/
+                          ButtonLink
+                          &gt;
+                        </span>
+                      </div>
                     </div>
                   </div>
+                  <button
+                    className="css-gydez8"
+                    onClick={[Function]}
+                  >
+                    <div
+                      className="css-kv47nt"
+                    >
+                      <div
+                        style={
+                          Object {
+                            "marginBottom": 6,
+                          }
+                        }
+                      >
+                        Copied!
+                      </div>
+                      <div>
+                        Copy
+                      </div>
+                    </div>
+                  </button>
                 </pre>
               </div>
             </div>
@@ -756,9 +776,7 @@ exports[`Storyshots ButtonLink Secondary 1`] = `
             className="ButtonLink__StyledButton-hvelaB hUQRXM"
             disabled={false}
             href="https://kiwi.com"
-            onClick={undefined}
             size="normal"
-            target={undefined}
           >
             ButtonLink
           </a>
@@ -787,142 +805,156 @@ exports[`Storyshots ButtonLink Secondary 1`] = `
                   Source
                 </h4>
                 <pre
-                  style={
-                    Object {
-                      "backgroundColor": "#fafafa",
-                      "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
-                      "fontSize": ".88em",
-                      "lineHeight": 1.5,
-                      "overflowX": "scroll",
-                      "padding": ".5rem",
-                    }
-                  }
+                  className="css-4akams"
                 >
                   <div>
-                    <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
-                    >
-                      <span
+                    <div>
+                      <div
                         style={
                           Object {
-                            "color": "#777",
+                            "paddingLeft": 18,
+                            "paddingRight": 3,
                           }
                         }
                       >
-                        &lt;
-                        ButtonLink
-                      </span>
-                      <span>
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          &lt;
+                          ButtonLink
+                        </span>
                         <span>
-                           
-                          <span
-                            style={Object {}}
-                          >
-                            href
-                          </span>
                           <span>
-                            =
+                             
                             <span
                               style={Object {}}
                             >
+                              href
+                            </span>
+                            <span>
+                              =
                               <span
-                                style={
-                                  Object {
-                                    "color": "#22a",
-                                    "wordBreak": "break-word",
-                                  }
-                                }
+                                style={Object {}}
                               >
                                 "
-                                https://kiwi.com
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#22a",
+                                      "wordBreak": "break-word",
+                                    }
+                                  }
+                                >
+                                  https://kiwi.com
+                                </span>
                                 "
                               </span>
                             </span>
                           </span>
-                        </span>
-                        <span>
-                           
-                          <span
-                            style={Object {}}
-                          >
-                            type
-                          </span>
                           <span>
-                            =
+                             
                             <span
                               style={Object {}}
                             >
+                              type
+                            </span>
+                            <span>
+                              =
                               <span
-                                style={
-                                  Object {
-                                    "color": "#22a",
-                                    "wordBreak": "break-word",
-                                  }
-                                }
+                                style={Object {}}
                               >
                                 "
-                                secondary
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "#22a",
+                                      "wordBreak": "break-word",
+                                    }
+                                  }
+                                >
+                                  secondary
+                                </span>
                                 "
                               </span>
                             </span>
+                            
                           </span>
-                          
                         </span>
-                      </span>
-                      <span
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          &gt;
+                        </span>
+                      </div>
+                      <div
                         style={
                           Object {
-                            "color": "#777",
+                            "paddingLeft": 33,
+                            "paddingRight": 3,
                           }
                         }
                       >
-                        &gt;
-                      </span>
-                    </div>
-                    <div
-                      style={
-                        Object {
-                          "paddingLeft": 33,
-                          "paddingRight": 3,
-                        }
-                      }
-                    >
-                      <span
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
+                          }
+                        >
+                          ButtonLink
+                        </span>
+                      </div>
+                      <div
                         style={
                           Object {
-                            "color": "#777",
+                            "paddingLeft": 18,
+                            "paddingRight": 3,
                           }
                         }
                       >
-                        ButtonLink
-                      </span>
-                    </div>
-                    <div
-                      style={
-                        Object {
-                          "paddingLeft": 18,
-                          "paddingRight": 3,
-                        }
-                      }
-                    >
-                      <span
-                        style={
-                          Object {
-                            "color": "#777",
+                        <span
+                          style={
+                            Object {
+                              "color": "#777",
+                            }
                           }
-                        }
-                      >
-                        &lt;/
-                        ButtonLink
-                        &gt;
-                      </span>
+                        >
+                          &lt;/
+                          ButtonLink
+                          &gt;
+                        </span>
+                      </div>
                     </div>
                   </div>
+                  <button
+                    className="css-gydez8"
+                    onClick={[Function]}
+                  >
+                    <div
+                      className="css-kv47nt"
+                    >
+                      <div
+                        style={
+                          Object {
+                            "marginBottom": 6,
+                          }
+                        }
+                      >
+                        Copied!
+                      </div>
+                      <div>
+                        Copy
+                      </div>
+                    </div>
+                  </button>
                 </pre>
               </div>
             </div>

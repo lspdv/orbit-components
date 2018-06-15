@@ -99,7 +99,6 @@ exports[`Storyshots Icon Custom color 1`] = `
           }
         >
           <svg
-            className={undefined}
             fill="currentColor"
             height="24px"
             preserveAspectRatio="xMidYMid meet"
@@ -141,102 +140,116 @@ exports[`Storyshots Icon Custom color 1`] = `
                   Source
                 </h4>
                 <pre
-                  style={
-                    Object {
-                      "backgroundColor": "#fafafa",
-                      "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
-                      "fontSize": ".88em",
-                      "lineHeight": 1.5,
-                      "overflowX": "scroll",
-                      "padding": ".5rem",
-                    }
-                  }
+                  className="css-4akams"
                 >
-                  <div
-                    style={
-                      Object {
-                        "paddingLeft": 18,
-                        "paddingRight": 3,
-                      }
-                    }
-                  >
-                    <span
+                  <div>
+                    <div
                       style={
                         Object {
-                          "color": "#777",
+                          "paddingLeft": 18,
+                          "paddingRight": 3,
                         }
                       }
                     >
-                      &lt;
-                      Airplane
-                    </span>
-                    <span>
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;
+                        Airplane
+                      </span>
                       <span>
-                         
-                        <span
-                          style={Object {}}
-                        >
-                          size
-                        </span>
                         <span>
-                          =
+                           
                           <span
                             style={Object {}}
                           >
+                            size
+                          </span>
+                          <span>
+                            =
                             <span
-                              style={
-                                Object {
-                                  "color": "#22a",
-                                  "wordBreak": "break-word",
-                                }
-                              }
+                              style={Object {}}
                             >
                               "
-                              medium
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                medium
+                              </span>
                               "
                             </span>
                           </span>
                         </span>
-                      </span>
-                      <span>
-                         
-                        <span
-                          style={Object {}}
-                        >
-                          customColor
-                        </span>
                         <span>
-                          =
+                           
                           <span
                             style={Object {}}
                           >
+                            customColor
+                          </span>
+                          <span>
+                            =
                             <span
-                              style={
-                                Object {
-                                  "color": "#22a",
-                                  "wordBreak": "break-word",
-                                }
-                              }
+                              style={Object {}}
                             >
                               "
-                              #ABCDEF
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                #ABCDEF
+                              </span>
                               "
                             </span>
                           </span>
+                           
                         </span>
-                         
                       </span>
-                    </span>
-                    <span
-                      style={
-                        Object {
-                          "color": "#777",
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
                         }
-                      }
-                    >
-                      /&gt;
-                    </span>
+                      >
+                        /&gt;
+                      </span>
+                    </div>
                   </div>
+                  <button
+                    className="css-gydez8"
+                    onClick={[Function]}
+                  >
+                    <div
+                      className="css-kv47nt"
+                    >
+                      <div
+                        style={
+                          Object {
+                            "marginBottom": 6,
+                          }
+                        }
+                      >
+                        Copied!
+                      </div>
+                      <div>
+                        Copy
+                      </div>
+                    </div>
+                  </button>
                 </pre>
               </div>
             </div>
@@ -347,7 +360,6 @@ exports[`Storyshots Icon Default 1`] = `
           }
         >
           <svg
-            className={undefined}
             fill="currentColor"
             height="24px"
             preserveAspectRatio="xMidYMid meet"
@@ -389,102 +401,116 @@ exports[`Storyshots Icon Default 1`] = `
                   Source
                 </h4>
                 <pre
-                  style={
-                    Object {
-                      "backgroundColor": "#fafafa",
-                      "fontFamily": "Menlo, Monaco, \\"Courier New\\", monospace",
-                      "fontSize": ".88em",
-                      "lineHeight": 1.5,
-                      "overflowX": "scroll",
-                      "padding": ".5rem",
-                    }
-                  }
+                  className="css-4akams"
                 >
-                  <div
-                    style={
-                      Object {
-                        "paddingLeft": 18,
-                        "paddingRight": 3,
-                      }
-                    }
-                  >
-                    <span
+                  <div>
+                    <div
                       style={
                         Object {
-                          "color": "#777",
+                          "paddingLeft": 18,
+                          "paddingRight": 3,
                         }
                       }
                     >
-                      &lt;
-                      Airplane
-                    </span>
-                    <span>
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
+                        }
+                      >
+                        &lt;
+                        Airplane
+                      </span>
                       <span>
-                         
-                        <span
-                          style={Object {}}
-                        >
-                          size
-                        </span>
                         <span>
-                          =
+                           
                           <span
                             style={Object {}}
                           >
+                            size
+                          </span>
+                          <span>
+                            =
                             <span
-                              style={
-                                Object {
-                                  "color": "#22a",
-                                  "wordBreak": "break-word",
-                                }
-                              }
+                              style={Object {}}
                             >
                               "
-                              medium
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                medium
+                              </span>
                               "
                             </span>
                           </span>
                         </span>
-                      </span>
-                      <span>
-                         
-                        <span
-                          style={Object {}}
-                        >
-                          color
-                        </span>
                         <span>
-                          =
+                           
                           <span
                             style={Object {}}
                           >
+                            color
+                          </span>
+                          <span>
+                            =
                             <span
-                              style={
-                                Object {
-                                  "color": "#22a",
-                                  "wordBreak": "break-word",
-                                }
-                              }
+                              style={Object {}}
                             >
                               "
-                              primary
+                              <span
+                                style={
+                                  Object {
+                                    "color": "#22a",
+                                    "wordBreak": "break-word",
+                                  }
+                                }
+                              >
+                                primary
+                              </span>
                               "
                             </span>
                           </span>
+                           
                         </span>
-                         
                       </span>
-                    </span>
-                    <span
-                      style={
-                        Object {
-                          "color": "#777",
+                      <span
+                        style={
+                          Object {
+                            "color": "#777",
+                          }
                         }
-                      }
-                    >
-                      /&gt;
-                    </span>
+                      >
+                        /&gt;
+                      </span>
+                    </div>
                   </div>
+                  <button
+                    className="css-gydez8"
+                    onClick={[Function]}
+                  >
+                    <div
+                      className="css-kv47nt"
+                    >
+                      <div
+                        style={
+                          Object {
+                            "marginBottom": 6,
+                          }
+                        }
+                      >
+                        Copied!
+                      </div>
+                      <div>
+                        Copy
+                      </div>
+                    </div>
+                  </button>
                 </pre>
               </div>
             </div>

@@ -9,7 +9,6 @@ exports[`Storyshots Select Default 1`] = `
   >
     <select
       className="jsx-2198933393 UnSelected"
-      disabled={undefined}
       onChange={[Function]}
       required={true}
       value=""
@@ -17,7 +16,6 @@ exports[`Storyshots Select Default 1`] = `
       <option
         className="jsx-2198933393 placeholder"
         disabled={true}
-        label={undefined}
         value=""
       />
       <option
@@ -85,7 +83,6 @@ exports[`Storyshots Select Default with placeholder 1`] = `
   >
     <select
       className="jsx-2198933393 UnSelected"
-      disabled={undefined}
       onChange={[Function]}
       required={true}
       value=""
@@ -163,7 +160,6 @@ exports[`Storyshots Select Disabled 'Four' option 1`] = `
   >
     <select
       className="jsx-2198933393 UnSelected"
-      disabled={undefined}
       onChange={[Function]}
       required={true}
       value=""
@@ -171,7 +167,6 @@ exports[`Storyshots Select Disabled 'Four' option 1`] = `
       <option
         className="jsx-2198933393 placeholder"
         disabled={true}
-        label={undefined}
         value=""
       />
       <option
@@ -239,7 +234,6 @@ exports[`Storyshots Select Hidden 'Four' option 1`] = `
   >
     <select
       className="jsx-2198933393 UnSelected"
-      disabled={undefined}
       onChange={[Function]}
       required={true}
       value=""
@@ -247,7 +241,6 @@ exports[`Storyshots Select Hidden 'Four' option 1`] = `
       <option
         className="jsx-2198933393 placeholder"
         disabled={true}
-        label={undefined}
         value=""
       />
       <option
@@ -308,7 +301,6 @@ exports[`Storyshots Select With error feedback 1`] = `
   >
     <select
       className="jsx-2198933393 hasError UnSelected"
-      disabled={undefined}
       onChange={[Function]}
       required={true}
       value=""
@@ -316,7 +308,6 @@ exports[`Storyshots Select With error feedback 1`] = `
       <option
         className="jsx-2198933393 placeholder"
         disabled={true}
-        label={undefined}
         value=""
       />
       <option
@@ -389,7 +380,6 @@ exports[`Storyshots Select With help feedback 1`] = `
   >
     <select
       className="jsx-2198933393 UnSelected"
-      disabled={undefined}
       onChange={[Function]}
       required={true}
       value=""
@@ -397,7 +387,6 @@ exports[`Storyshots Select With help feedback 1`] = `
       <option
         className="jsx-2198933393 placeholder"
         disabled={true}
-        label={undefined}
         value=""
       />
       <option
@@ -479,7 +468,6 @@ exports[`Storyshots Select With label NOT filled 1`] = `
     </div>
     <select
       className="jsx-2198933393 UnSelected"
-      disabled={undefined}
       onChange={[Function]}
       required={true}
       value=""
@@ -487,7 +475,6 @@ exports[`Storyshots Select With label NOT filled 1`] = `
       <option
         className="jsx-2198933393 placeholder"
         disabled={true}
-        label={undefined}
         value=""
       />
       <option
@@ -564,7 +551,6 @@ exports[`Storyshots Select With label filled 1`] = `
     </div>
     <select
       className="jsx-2198933393 "
-      disabled={undefined}
       onChange={[Function]}
       required={true}
       value="2"
@@ -572,7 +558,6 @@ exports[`Storyshots Select With label filled 1`] = `
       <option
         className="jsx-2198933393 placeholder"
         disabled={true}
-        label={undefined}
         value=""
       />
       <option
@@ -649,7 +634,6 @@ exports[`Storyshots Select With label with help 1`] = `
     </div>
     <select
       className="jsx-2198933393 UnSelected"
-      disabled={undefined}
       onChange={[Function]}
       required={true}
       value=""
@@ -657,7 +641,6 @@ exports[`Storyshots Select With label with help 1`] = `
       <option
         className="jsx-2198933393 placeholder"
         disabled={true}
-        label={undefined}
         value=""
       />
       <option
