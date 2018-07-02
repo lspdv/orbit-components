@@ -8,16 +8,16 @@ After adding import into your project you can use it simply like:
 <TextLink>Hello World!</TextLink>
 ```
 ## Props
-Table below contains all type of the props available in TextLink component.
+Table below contains all types of the props available in TextLink component.
 
 | Name          | Type                  | Default         | Description                      |
 | :------------ | :---------------------| :-------------- | :------------------------------- |
 | children      | `React.Node`          |                 | The content of the TextLink.
 | external      | `boolean`             | `false`         | If `true`, the TextLink opens link in a new tab.
 | href          | `string`              |                 | The URL to link when the TextLink is clicked.
-| onClick       | `void`                |                 | Function for handling TextLink onClick
+| onClick       | `void`                |                 | Function for handling onClick event.
 | rel           | `string`              |                 | The rel of the TextLink.
-| **type**      | [`enum`](#enum)       | `"primary"`     | The type of TextLink.
+| **type**      | [`enum`](#enum)       | `"primary"`     | The color type of the TextLink.
 
 ### enum
 

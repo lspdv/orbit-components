@@ -1,5 +1,5 @@
 # Icon
-To implement Icon component into your project you'll need to check your icon in the [list of all icons](../icons/icons.md) (*if you don't know the name*) and add an import of the icon name you want to use e.g.:
+To implement Icon component into your project you need to know its name. You can find it in [the list of all icons](../icons/icons.md). Then just add an import of the icon:
 ```jsx
 import Airplane from "@kiwicom/orbit-components/lib/icons/Airplane";
 ```
@@ -14,11 +14,11 @@ After adding import into your project you can use it simply like:
 <ChevronDown />
 ```
 ## Props
-Table below contains all type of the props available for icons in general.
+Table below contains all types of the props available for icons in general.
 
 | Name          | Type            | Default         | Description                      |
 | :------------ | :-------------- | :-------------- | :------------------------------- |
-| className     | `string`        |                 | Pass className.
+| className     | `string`        |                 | The optional className of Icon.
 | color         | [`enum`](#enum) | `currentColor`  | The color of the Icon.
 | customColor   | `string`        |                 | The customColor of the Icon. [See Functional specs](#functional-specs)
 | **size**      | [`enum`](#enum) | `"medium"`      | The size of the Icon.

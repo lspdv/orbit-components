@@ -8,13 +8,13 @@ After adding import into your project you can use it simply like:
 <Heading>Hello World!</Heading>
 ```
 ## Props
-Table below contains all type of the props available in Heading component.
+Table below contains all types of the props available in Heading component.
 
 | Name          | Type                  | Default    | Description                      |
 | :------------ | :---------------------| :--------- | :------------------------------- |
 | children      | `React.Node`          |            | The content of the Heading.
 | **element**   | `React.Node`          | `"h1"`     | The element used for the root node.
-| **type**      | [`enum`](#enum)       | `"title1"` | The type of Heading.
+| **type**      | [`enum`](#enum)       | `"title1"` | The color type of Heading.
 
 ### enum
 
@@ -25,3 +25,4 @@ Table below contains all type of the props available in Heading component.
 | `"h3"`  | `"title2"`  |
 | `"h4"`  | `"title3"`  |
 | `"h5"`  |             |
+| `"h6"`  |             |

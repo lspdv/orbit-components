@@ -8,7 +8,7 @@ After adding import into your project you can use it simply like:
 <Text>Hello World!</Text>
 ```
 ## Props
-Table below contains all type of the props available in Text component.
+Table below contains all types of the props available in the Text component.
 
 | Name       | Type            | Default     | Description                      |
 | :--------- | :-------------- | :---------- | :------------------------------- |
@@ -23,7 +23,7 @@ Table below contains all type of the props available in Text component.
 
 ### enum
 
-| align      | type         | element  | size       | weight      |
+| align      | type          | element  | size       | weight      |
 | :--------- | :------------ | :------- | :--------- | :---------- |
 | `"left"`   | `"attention"` | `"p"`    | `"small"`  | `"regular"` |
 | `"center"` | `"primary"`   | `"span"` | `"normal"` | `"bold"`    |

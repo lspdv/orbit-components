@@ -8,14 +8,14 @@ After adding import into your project you can use it simply like:
 <Alert>Hello World!</Alert>
 ```
 ## Props
-Table below contains all type of the props available in Alert component.
+Table below contains all types of the props available in Alert component.
 
 | Name          | Type                            | Default         | Description                      |
 | :------------ | :------------------------------ | :-------------- | :------------------------------- |
 | children      | `React.Node`                    |                 | The content of the Alert.
-| closable      | `boolean`                       | `false`         | If `true`, the Alert will set up the close icon. [See Functional specs](#functional-specs)
-| icon          | `React.Element<any> \| boolean` |                 | The component for adding icon. [See Functional specs](#functional-specs)
-| onClose       | `void`                          |                 | Function for handling Alert onClose
+| closable      | `boolean`                       | `false`         | If `true`, the Close icon will be displayed. [See Functional specs](#functional-specs)
+| icon          | `React.Element<any> \| boolean` |                 | The displayed icon. [See Functional specs](#functional-specs)
+| onClose       | `void`                          |                 | Function for handling Alert onClose.
 | title         | `string`                        |                 | The title of the Alert.
 | **type**      | [`enum`](#enum)                 | `"info"`        | The type of Alert.
 
@@ -29,6 +29,6 @@ Table below contains all type of the props available in Alert component.
 | `"critical"`  |
 
 ## Functional specs
-* By passing the `closable` prop into Alert, you will be able to handle `onClose` function.
+* By passing the `closable` prop into Alert, you will be able to handle `onClose` function and Close icon will be displayed.
 
-* If you set up `icon` prop as `true`, for each type of Alert is rendered appropriate icon. If you want to render your own icon, just pass it to the `icon` prop as `React.Element`. Alert without `icon` prop have no icon.
+* If you set up `icon` props as `true`, Alert will have it's own icon, based on selected `type`. If you want to use different icon, just pass it to the `icon` prop as `React.Element`. Alert without `icon` prop doesn't have any icon.
