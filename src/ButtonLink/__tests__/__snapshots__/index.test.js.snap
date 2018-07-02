@@ -789,7 +789,7 @@ exports[`ButtonLink with Icon should match snapshot 1`] = `
     width={0}
   >
     <Component
-      className="ButtonLink__StyledButtonLink-eyUiPe kKxExn"
+      className="ButtonLink__StyledButtonLink-eyUiPe bWvXY"
       component="button"
       external={true}
       href="https://kiwi.com"
@@ -1211,7 +1211,7 @@ exports[`ButtonLink with Icon should match snapshot 1`] = `
       width={0}
     >
       <a
-        className="ButtonLink__StyledButtonLink-eyUiPe kKxExn"
+        className="ButtonLink__StyledButtonLink-eyUiPe bWvXY"
         href="https://kiwi.com"
         size="normal"
         target="_blank"
@@ -2014,7 +2014,7 @@ exports[`ButtonLink with Icon should match snapshot 2`] = `
     width={0}
   >
     <Component
-      className="ButtonLink__StyledButtonLink-eyUiPe dnIufj"
+      className="ButtonLink__StyledButtonLink-eyUiPe dVAptv"
       component="button"
       external={false}
       href="https://kiwi.com"
@@ -2437,7 +2437,7 @@ exports[`ButtonLink with Icon should match snapshot 2`] = `
       width={0}
     >
       <a
-        className="ButtonLink__StyledButtonLink-eyUiPe dnIufj"
+        className="ButtonLink__StyledButtonLink-eyUiPe dVAptv"
         href="https://kiwi.com"
         size="normal"
       >

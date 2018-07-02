@@ -7,10 +7,18 @@ export type Props = {|
   children: React$Node,
   href?: string,
   onClick?: (SyntheticEvent<HTMLLinkElement>) => void,
-  external: boolean,
-  type: Type,
+  external?: boolean,
+  type?: Type,
   rel?: string,
   theme?: typeof defaultTokens,
 |};
+
+type styledTextLink = {
+  tokens?: { [key: string]: string | number },
+  type?: Type,
+  theme?: typeof defaultTokens,
+};
+
+declare export var StyledTextLink: React$ComponentType<styledTextLink>;
 
 declare export default React$ComponentType<Props>;
